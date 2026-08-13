@@ -1,0 +1,504 @@
+{
+  "items": [
+    {
+      "description": "Code meant become part of the extension.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mozilla/webextension-polyfill",
+          "description": "Polyfill to support the standardized promise based API in the namespace.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-07-30T12:16:33Z",
+            "owner": "mozilla",
+            "repo": "webextension-polyfill",
+            "stars": 3072
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExtPay",
+          "description": "Take secure payments in extensions without needing to run a server backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-18T14:34:01Z",
+            "owner": "Glench",
+            "repo": "ExtPay",
+            "stars": 761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webext-options-sync",
+          "description": "Helps you manage and autosave your extension's options.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-17T11:05:17Z",
+            "owner": "fregante",
+            "repo": "webext-options-sync",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "More…",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-16T08:34:28Z",
+            "owner": "fregante",
+            "repo": "webext-fun",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redux-webext",
+          "description": "Uses Redux for managing the state of your WebExtension.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-06-23T21:58:09Z",
+            "owner": "ivantsov",
+            "repo": "redux-webext",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webext-dynamic-content-scripts",
+          "description": "Automatically inject your on custom domains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T09:43:00Z",
+            "owner": "fregante",
+            "repo": "webext-dynamic-content-scripts",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webext-storage-cache",
+          "description": "Map-like promised cache storage with expiration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T09:50:59Z",
+            "owner": "fregante",
+            "repo": "webext-storage-cache",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inject-react-anywhere",
+          "description": "Inject React components into 3rd party sites with convenient API and styles isolation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-10-22T17:35:20Z",
+            "owner": "OlegWock",
+            "repo": "inject-react-anywhere",
+            "stars": 59
+          }
+        }
+      ],
+      "title": "Libraries and Frameworks"
+    },
+    {
+      "description": "Apps that help you manage your extensions.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Extension.js",
+          "description": "Plug-and-play, zero-config, cross-browser extension development tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T10:22:28Z",
+            "owner": "extension-js",
+            "repo": "extension.js",
+            "stars": 5061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mozilla/web-ext",
+          "description": "Command line tool to help build, run, and test WebExtensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T10:55:43Z",
+            "owner": "mozilla",
+            "repo": "web-ext",
+            "stars": 3124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chrome extension source viewer",
+          "description": "WebExtension to view source code of extensions directly on the store.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-21T23:29:21Z",
+            "owner": "Rob--W",
+            "repo": "crxviewer",
+            "stars": 1712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chrome Webstore Upload",
+          "description": "Upload the extension to the Chrome Web Store via cli (or on GitHub Actions, automatically).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-28T12:11:06Z",
+            "owner": "fregante",
+            "repo": "chrome-webstore-upload-cli",
+            "stars": 503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webpack-extension-reloader",
+          "description": "A Webpack plugin to automatically reload browser extensions during development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-04T21:44:11Z",
+            "owner": "rubenspgcavalcante",
+            "repo": "webpack-extension-reloader",
+            "stars": 497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@wext/shipit",
+          "description": "Tool to automatically publish to Chrome Web Store, Mozilla Addons and Opera Addons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-12T19:36:21Z",
+            "owner": "LinusU",
+            "repo": "wext-shipit",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chrome-ext-downloader",
+          "description": "Download any extension on Chrome Web Store to see how they do it.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-07-30T19:25:49Z",
+            "owner": "jiripospisil",
+            "repo": "chrome-ext-downloader",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webpack-target-webextension",
+          "description": "Adds code-splitting support to WebExtensions build with Webpack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-14T08:59:25Z",
+            "owner": "awesome-webextension",
+            "repo": "webpack-target-webextension",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chromepet",
+          "description": "Get notified when your new version has been published.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-11-09T19:54:08Z",
+            "owner": "ZenHubIO",
+            "repo": "chromepet",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chrome-store-api",
+          "description": "Chrome Web Store API wrapper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-02-12T15:25:58Z",
+            "owner": "acvetkov",
+            "repo": "chrome-store-api",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wext-manifest-loader",
+          "description": "Webpack loader that lets you specify properties to appear only in specific browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-04T13:24:52Z",
+            "owner": "abhijithvijayan",
+            "repo": "wext-manifest-loader",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webextension-manifest-loader",
+          "description": "Webpack loader that loads browser tailored manifest.json. It also imports all importable properties, allowing you to have 'manifest.json' as your only webpack entry point.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2021-06-11T21:58:16Z",
+            "owner": "jsmnbom",
+            "repo": "webextension-manifest-loader",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sinon-chrome",
+          "description": "Mocks the Chrome Extensions API for testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-07-12T14:06:30Z",
+            "owner": "acvetkov",
+            "repo": "sinon-chrome",
+            "stars": 442
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "addons-linter",
+          "description": "Validate an extension against Mozilla's guidelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T11:59:20Z",
+            "owner": "mozilla",
+            "repo": "addons-linter",
+            "stars": 363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webextensions-jsdom",
+          "description": "Load popup, sidebar and background with JSDOM based on the manifest.json.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-06-30T22:15:33Z",
+            "owner": "stoically",
+            "repo": "webextensions-jsdom",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webextensions-api-fake",
+          "description": "In-memory WebExtensions API Fake Implementation (includes TypeScript types).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-06-08T11:18:26Z",
+            "owner": "stoically",
+            "repo": "webextensions-api-fake",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webextensions-api-mock",
+          "description": "WebExtensions API as sinon stubs (includes TypeScript types).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-01-29T11:40:35Z",
+            "owner": "stoically",
+            "repo": "webextensions-api-mock",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webextensions-schema",
+          "description": "Programmatically consume the WebExtensions Schema JSON files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-06-24T17:15:39Z",
+            "owner": "stoically",
+            "repo": "webextensions-schema",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WXT",
+          "description": "Next-gen framework for developing web extensions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:31:32Z",
+            "owner": "wxt-dev",
+            "repo": "wxt",
+            "stars": 10339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "browser-extension-template",
+          "description": "Barebones boilerplate with parcel, options handler and auto-publishing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-03T05:11:51Z",
+            "owner": "fregante",
+            "repo": "browser-extension-template",
+            "stars": 848
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "generator-web-extension",
+          "description": "WebExtension generator that creates everything you need to get started with cross-browser web-extension development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-01T11:03:40Z",
+            "owner": "webextension-toolbox",
+            "repo": "generator-web-extension",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "create-webextension",
+          "description": "Yarn WebExtension generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-15T06:42:29Z",
+            "owner": "rpl",
+            "repo": "create-webextension",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Boilerplates"
+    },
+    {
+      "description": "These are simple and modern WebExtensions repositories that could help you figure out where pieces go, including automatic deployment via GitHub Actions.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mdn/webextension-examples",
+          "description": "Various example extensions curated for the MDN documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-30T09:27:24Z",
+            "owner": "mdn",
+            "repo": "webextensions-examples",
+            "stars": 4467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "npmhub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2024-08-13T17:15:34Z",
+            "owner": "npmhub",
+            "repo": "npmhub",
+            "stars": 833
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hide Files on GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-01-04T02:02:34Z",
+            "owner": "sindresorhus",
+            "repo": "hide-files-on-github",
+            "stars": 320
+          }
+        }
+      ],
+      "title": "Sample Extensions"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T09:22:05.752Z",
+    "original_repository": "fregante/Awesome-WebExtensions",
+    "original_repository_sha": "c70286f5b8356c84fe468c543fab166763dea6bf",
+    "enhanced_repository": "enhansome/enhansome-Awesome-WebExtensions",
+    "enhanced_repository_description": null,
+    "title": "Awesome WebExtensions with stars"
+  }
+}
