@@ -56,7 +56,7 @@
             "last_commit": "2025-03-16T08:34:28Z",
             "owner": "fregante",
             "repo": "webext-fun",
-            "stars": 140
+            "stars": 139
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-09T10:22:28Z",
             "owner": "extension-js",
             "repo": "extension.js",
-            "stars": 5062
+            "stars": 5063
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2026-08-13T12:22:49Z",
             "owner": "mozilla",
             "repo": "web-ext",
-            "stars": 3124
+            "stars": 3126
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2026-06-21T23:29:21Z",
             "owner": "Rob--W",
             "repo": "crxviewer",
-            "stars": 1712
+            "stars": 1711
           }
         },
         {
@@ -244,7 +244,7 @@
             "last_commit": "2014-11-09T19:54:08Z",
             "owner": "ZenHubIO",
             "repo": "chromepet",
-            "stars": 34
+            "stars": 33
           }
         },
         {
@@ -317,7 +317,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T11:59:20Z",
+            "last_commit": "2026-08-14T11:23:42Z",
             "owner": "mozilla",
             "repo": "addons-linter",
             "stars": 363
@@ -396,7 +396,7 @@
             "last_commit": "2026-08-14T00:32:30Z",
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10340
+            "stars": 10346
           }
         },
         {
@@ -458,7 +458,7 @@
             "last_commit": "2026-07-30T09:27:24Z",
             "owner": "mdn",
             "repo": "webextensions-examples",
-            "stars": 4468
+            "stars": 4469
           }
         },
         {
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T09:18:13.097Z",
+    "last_updated": "2026-08-15T08:42:54.423Z",
     "original_repository": "fregante/Awesome-WebExtensions",
     "original_repository_sha": "c70286f5b8356c84fe468c543fab166763dea6bf",
     "enhanced_repository": "enhansome/enhansome-Awesome-WebExtensions",
