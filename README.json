@@ -14,7 +14,7 @@
             "last_commit": "2026-07-30T12:16:33Z",
             "owner": "mozilla",
             "repo": "webextension-polyfill",
-            "stars": 3073
+            "stars": 3072
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2024-11-17T11:05:17Z",
             "owner": "fregante",
             "repo": "webext-options-sync",
-            "stars": 158
+            "stars": 157
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2025-03-16T08:34:28Z",
             "owner": "fregante",
             "repo": "webext-fun",
-            "stars": 139
+            "stars": 138
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-08-11T09:43:00Z",
             "owner": "fregante",
             "repo": "webext-dynamic-content-scripts",
-            "stars": 93
+            "stars": 92
           }
         },
         {
@@ -129,7 +129,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-09T10:22:28Z",
+            "last_commit": "2026-08-15T15:46:07Z",
             "owner": "extension-js",
             "repo": "extension.js",
             "stars": 5063
@@ -160,7 +160,7 @@
             "last_commit": "2026-06-21T23:29:21Z",
             "owner": "Rob--W",
             "repo": "crxviewer",
-            "stars": 1711
+            "stars": 1710
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2026-05-28T12:11:06Z",
             "owner": "fregante",
             "repo": "chrome-webstore-upload-cli",
-            "stars": 504
+            "stars": 503
           }
         },
         {
@@ -393,10 +393,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T00:32:30Z",
+            "last_commit": "2026-08-16T07:48:35Z",
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10346
+            "stars": 10350
           }
         },
         {
@@ -410,7 +410,7 @@
             "last_commit": "2025-02-03T05:11:51Z",
             "owner": "fregante",
             "repo": "browser-extension-template",
-            "stars": 848
+            "stars": 847
           }
         },
         {
@@ -458,7 +458,7 @@
             "last_commit": "2026-07-30T09:27:24Z",
             "owner": "mdn",
             "repo": "webextensions-examples",
-            "stars": 4469
+            "stars": 4470
           }
         },
         {
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T08:42:54.423Z",
+    "last_updated": "2026-08-16T08:44:12.803Z",
     "original_repository": "fregante/Awesome-WebExtensions",
     "original_repository_sha": "c70286f5b8356c84fe468c543fab166763dea6bf",
     "enhanced_repository": "enhansome/enhansome-Awesome-WebExtensions",
