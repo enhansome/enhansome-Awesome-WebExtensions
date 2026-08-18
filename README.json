@@ -70,7 +70,7 @@
             "last_commit": "2022-06-23T21:58:09Z",
             "owner": "ivantsov",
             "repo": "redux-webext",
-            "stars": 107
+            "stars": 108
           }
         },
         {
@@ -129,7 +129,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T02:01:21Z",
+            "last_commit": "2026-08-17T19:34:22Z",
             "owner": "extension-js",
             "repo": "extension.js",
             "stars": 5064
@@ -143,10 +143,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T07:22:57Z",
+            "last_commit": "2026-08-17T12:57:12Z",
             "owner": "mozilla",
             "repo": "web-ext",
-            "stars": 3126
+            "stars": 3127
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2026-06-21T23:29:21Z",
             "owner": "Rob--W",
             "repo": "crxviewer",
-            "stars": 1708
+            "stars": 1709
           }
         },
         {
@@ -317,7 +317,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T11:23:42Z",
+            "last_commit": "2026-08-17T11:23:32Z",
             "owner": "mozilla",
             "repo": "addons-linter",
             "stars": 363
@@ -396,7 +396,7 @@
             "last_commit": "2026-08-16T07:48:35Z",
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10361
+            "stars": 10366
           }
         },
         {
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T08:57:16.751Z",
+    "last_updated": "2026-08-18T08:51:07.384Z",
     "original_repository": "fregante/Awesome-WebExtensions",
     "original_repository_sha": "c70286f5b8356c84fe468c543fab166763dea6bf",
     "enhanced_repository": "enhansome/enhansome-Awesome-WebExtensions",
