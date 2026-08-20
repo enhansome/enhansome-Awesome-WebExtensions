@@ -15,7 +15,7 @@
             "last_commit": "2026-07-30T12:16:33Z",
             "owner": "mozilla",
             "repo": "webextension-polyfill",
-            "stars": 3072
+            "stars": 3071
           }
         },
         {
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 306484159,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T22:05:08Z",
+            "last_commit": "2026-08-20T02:55:33Z",
             "owner": "extension-js",
             "repo": "extension.js",
             "stars": 5064
@@ -153,7 +153,7 @@
             "archived": false,
             "id": 50859563,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T07:23:08Z",
+            "last_commit": "2026-08-20T07:24:08Z",
             "owner": "mozilla",
             "repo": "web-ext",
             "stars": 3129
@@ -339,7 +339,7 @@
             "archived": false,
             "id": 42436885,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T11:23:27Z",
+            "last_commit": "2026-08-19T16:43:52Z",
             "owner": "mozilla",
             "repo": "addons-linter",
             "stars": 363
@@ -423,7 +423,7 @@
             "last_commit": "2026-08-16T07:48:35Z",
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10374
+            "stars": 10381
           }
         },
         {
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:13:01.519Z",
+    "last_updated": "2026-08-20T08:53:11.220Z",
     "original_repository": "fregante/Awesome-WebExtensions",
     "original_repository_id": 62128655,
     "original_repository_sha": "c70286f5b8356c84fe468c543fab166763dea6bf",
