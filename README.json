@@ -15,7 +15,7 @@
             "last_commit": "2026-07-30T12:16:33Z",
             "owner": "mozilla",
             "repo": "webextension-polyfill",
-            "stars": 3071
+            "stars": 3069
           }
         },
         {
@@ -138,10 +138,10 @@
             "archived": false,
             "id": 306484159,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T02:55:33Z",
+            "last_commit": "2026-08-20T20:59:22Z",
             "owner": "extension-js",
             "repo": "extension.js",
-            "stars": 5064
+            "stars": 5065
           }
         },
         {
@@ -153,7 +153,7 @@
             "archived": false,
             "id": 50859563,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T07:24:08Z",
+            "last_commit": "2026-08-21T07:22:59Z",
             "owner": "mozilla",
             "repo": "web-ext",
             "stars": 3129
@@ -171,7 +171,7 @@
             "last_commit": "2026-06-21T23:29:21Z",
             "owner": "Rob--W",
             "repo": "crxviewer",
-            "stars": 1710
+            "stars": 1711
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2026-08-16T07:48:35Z",
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10381
+            "stars": 10388
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2024-08-13T17:15:34Z",
             "owner": "npmhub",
             "repo": "npmhub",
-            "stars": 832
+            "stars": 833
           }
         },
         {
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T08:53:11.220Z",
+    "last_updated": "2026-08-21T08:54:40.458Z",
     "original_repository": "fregante/Awesome-WebExtensions",
     "original_repository_id": 62128655,
     "original_repository_sha": "c70286f5b8356c84fe468c543fab166763dea6bf",
