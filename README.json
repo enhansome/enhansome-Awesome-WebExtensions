@@ -138,10 +138,10 @@
             "archived": false,
             "id": 306484159,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T21:13:38Z",
+            "last_commit": "2026-08-22T23:13:26Z",
             "owner": "extension-js",
             "repo": "extension.js",
-            "stars": 5067
+            "stars": 5066
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2026-08-22T00:18:53Z",
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10391
+            "stars": 10393
           }
         },
         {
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T08:44:11.745Z",
+    "last_updated": "2026-08-23T08:45:13.367Z",
     "original_repository": "fregante/Awesome-WebExtensions",
     "original_repository_id": 62128655,
     "original_repository_sha": "c70286f5b8356c84fe468c543fab166763dea6bf",
