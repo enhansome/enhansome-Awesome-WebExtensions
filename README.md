@@ -39,7 +39,7 @@ Follow [@fregante](https://fregante.com) for more webext-related news.
 Code meant become part of the extension.
 
 * [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) ⚠️ Archived - Polyfill to support the standardized promise based API in the `browser` namespace.
-* [ExtPay](https://github.com/Glench/ExtPay) ⭐ 761 | 🐛 11 | 🌐 JavaScript | 📅 2026-07-18 - Take secure payments in extensions without needing to run a server backend.
+* [ExtPay](https://github.com/Glench/ExtPay) ⭐ 762 | 🐛 11 | 🌐 JavaScript | 📅 2026-07-18 - Take secure payments in extensions without needing to run a server backend.
 * [webext-options-sync](https://github.com/fregante/webext-options-sync) ⭐ 157 | 🐛 1 | 🌐 TypeScript | 📅 2024-11-17 - Helps you manage and autosave your extension's options.
 * [More…](https://github.com/fregante/webext-fun) ⭐ 138 | 🐛 0 | 📅 2025-03-16
 * [redux-webext](https://github.com/ivantsov/redux-webext) ⭐ 108 | 🐛 13 | 🌐 JavaScript | 📅 2022-06-23 - Uses Redux for managing the state of your WebExtension.
@@ -52,7 +52,7 @@ Code meant become part of the extension.
 
 Apps that help you manage your extensions.
 
-* [Extension.js](https://github.com/cezaraugusto/extension.js) ⭐ 5,069 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-23 - Plug-and-play, zero-config, cross-browser extension development tool.
+* [Extension.js](https://github.com/cezaraugusto/extension.js) ⭐ 5,069 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-24 - Plug-and-play, zero-config, cross-browser extension development tool.
 * [mozilla/web-ext](https://github.com/mozilla/web-ext) ⭐ 3,130 | 🐛 226 | 🌐 JavaScript | 📅 2026-08-24 - Command line tool to help build, run, and test WebExtensions.
 * [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) ⭐ 1,714 | 🐛 26 | 🌐 JavaScript | 📅 2026-06-21 - WebExtension to view source code of extensions directly on the store.
 * [Chrome Webstore Upload](https://github.com/fregante/chrome-webstore-upload-cli) ⭐ 503 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-28 - Upload the extension to the Chrome Web Store via cli (or on GitHub Actions, automatically).
@@ -68,7 +68,7 @@ Apps that help you manage your extensions.
 ## Testing
 
 * [sinon-chrome](https://github.com/acvetkov/sinon-chrome) ⭐ 442 | 🐛 37 | 🌐 JavaScript | 📅 2021-07-12 - Mocks the Chrome Extensions API for testing.
-* [addons-linter](https://github.com/mozilla/addons-linter) ⭐ 363 | 🐛 71 | 🌐 JavaScript | 📅 2026-08-21 - Validate an extension against Mozilla's guidelines.
+* [addons-linter](https://github.com/mozilla/addons-linter) ⭐ 363 | 🐛 69 | 🌐 JavaScript | 📅 2026-08-24 - Validate an extension against Mozilla's guidelines.
 * [webextensions-jsdom](https://github.com/stoically/webextensions-jsdom) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2022-06-30 - Load popup, sidebar and background with JSDOM based on the manifest.json.
 * [webextensions-api-fake](https://github.com/stoically/webextensions-api-fake) ⭐ 18 | 🐛 2 | 🌐 TypeScript | 📅 2020-06-08 - In-memory WebExtensions API Fake Implementation (includes TypeScript types).
 * [webextensions-api-mock](https://github.com/stoically/webextensions-api-mock) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2020-01-29 - WebExtensions API as sinon stubs (includes TypeScript types).
@@ -76,7 +76,7 @@ Apps that help you manage your extensions.
 
 ## Boilerplates
 
-* [WXT](https://github.com/wxt-dev/wxt) ⭐ 10,393 | 🐛 191 | 🌐 TypeScript | 📅 2026-08-22 - Next-gen framework for developing web extensions
+* [WXT](https://github.com/wxt-dev/wxt) ⭐ 10,395 | 🐛 191 | 🌐 TypeScript | 📅 2026-08-22 - Next-gen framework for developing web extensions
 * [browser-extension-template](https://github.com/fregante/browser-extension-template) ⭐ 848 | 🐛 4 | 🌐 JavaScript | 📅 2025-02-03 - Barebones boilerplate with parcel, options handler and auto-publishing.
 * [generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension) ⭐ 317 | 🐛 13 | 🌐 JavaScript | 📅 2023-03-01 - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 * [create-webextension](https://github.com/rpl/create-webextension) ⭐ 25 | 🐛 11 | 🌐 JavaScript | 📅 2018-11-15 - Yarn WebExtension generator.

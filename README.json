@@ -30,7 +30,7 @@
             "last_commit": "2026-07-18T14:34:01Z",
             "owner": "Glench",
             "repo": "ExtPay",
-            "stars": 761
+            "stars": 762
           }
         },
         {
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 306484159,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T11:55:31Z",
+            "last_commit": "2026-08-24T10:16:00Z",
             "owner": "extension-js",
             "repo": "extension.js",
             "stars": 5069
@@ -339,7 +339,7 @@
             "archived": false,
             "id": 42436885,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T11:23:11Z",
+            "last_commit": "2026-08-24T13:03:46Z",
             "owner": "mozilla",
             "repo": "addons-linter",
             "stars": 363
@@ -423,7 +423,7 @@
             "last_commit": "2026-08-22T00:18:53Z",
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10393
+            "stars": 10395
           }
         },
         {
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:00:50.007Z",
+    "last_updated": "2026-08-24T14:10:06.747Z",
     "original_repository": "fregante/Awesome-WebExtensions",
     "original_repository_id": 62128655,
     "original_repository_sha": "c70286f5b8356c84fe468c543fab166763dea6bf",
