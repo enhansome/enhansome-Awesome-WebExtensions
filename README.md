@@ -52,9 +52,9 @@ Code meant become part of the extension.
 
 Apps that help you manage your extensions.
 
-* [Extension.js](https://github.com/cezaraugusto/extension.js) ⭐ 5,066 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-22 - Plug-and-play, zero-config, cross-browser extension development tool.
-* [mozilla/web-ext](https://github.com/mozilla/web-ext) ⭐ 3,128 | 🐛 226 | 🌐 JavaScript | 📅 2026-08-21 - Command line tool to help build, run, and test WebExtensions.
-* [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) ⭐ 1,713 | 🐛 26 | 🌐 JavaScript | 📅 2026-06-21 - WebExtension to view source code of extensions directly on the store.
+* [Extension.js](https://github.com/cezaraugusto/extension.js) ⭐ 5,069 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-23 - Plug-and-play, zero-config, cross-browser extension development tool.
+* [mozilla/web-ext](https://github.com/mozilla/web-ext) ⭐ 3,130 | 🐛 226 | 🌐 JavaScript | 📅 2026-08-24 - Command line tool to help build, run, and test WebExtensions.
+* [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) ⭐ 1,714 | 🐛 26 | 🌐 JavaScript | 📅 2026-06-21 - WebExtension to view source code of extensions directly on the store.
 * [Chrome Webstore Upload](https://github.com/fregante/chrome-webstore-upload-cli) ⭐ 503 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-28 - Upload the extension to the Chrome Web Store via cli (or on GitHub Actions, automatically).
 * [webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) ⭐ 497 | 🐛 90 | 🌐 TypeScript | 📅 2023-01-04 - A Webpack plugin to automatically reload browser extensions during development.
 * [@wext/shipit](https://github.com/LinusU/wext-shipit) ⭐ 134 | 🐛 9 | 🌐 JavaScript | 📅 2021-06-12 - Tool to automatically publish to Chrome Web Store, Mozilla Addons and Opera Addons.
@@ -91,4 +91,4 @@ These are simple and modern WebExtensions repositories that could help you figur
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
