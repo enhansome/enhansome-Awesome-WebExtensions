@@ -76,7 +76,7 @@ Apps that help you manage your extensions.
 
 ## Boilerplates
 
-* [WXT](https://github.com/wxt-dev/wxt) ⭐ 10,396 | 🐛 191 | 🌐 TypeScript | 📅 2026-08-22 - Next-gen framework for developing web extensions
+* [WXT](https://github.com/wxt-dev/wxt) ⭐ 10,398 | 🐛 191 | 🌐 TypeScript | 📅 2026-08-22 - Next-gen framework for developing web extensions
 * [browser-extension-template](https://github.com/fregante/browser-extension-template) ⭐ 848 | 🐛 4 | 🌐 JavaScript | 📅 2025-02-03 - Barebones boilerplate with parcel, options handler and auto-publishing.
 * [generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension) ⭐ 317 | 🐛 13 | 🌐 JavaScript | 📅 2023-03-01 - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 * [create-webextension](https://github.com/rpl/create-webextension) ⭐ 25 | 🐛 11 | 🌐 JavaScript | 📅 2018-11-15 - Yarn WebExtension generator.
