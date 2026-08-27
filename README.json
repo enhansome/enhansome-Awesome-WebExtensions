@@ -423,7 +423,7 @@
             "last_commit": "2026-08-22T00:18:53Z",
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10404
+            "stars": 10414
           }
         },
         {
@@ -489,7 +489,7 @@
             "last_commit": "2026-07-30T09:27:24Z",
             "owner": "mdn",
             "repo": "webextensions-examples",
-            "stars": 4473
+            "stars": 4472
           }
         },
         {
@@ -527,9 +527,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:58:31.845Z",
-    "original_repository": "fregante/Awesome-WebExtensions",
-    "original_repository_id": 62128655,
+    "last_updated": "2026-08-27T11:25:25.305Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 62128655,
+      "language": null,
+      "last_commit": "2026-07-04T06:48:00Z",
+      "owner": "fregante",
+      "repo": "Awesome-WebExtensions",
+      "stars": 1509
+    },
     "original_repository_sha": "c70286f5b8356c84fe468c543fab166763dea6bf",
     "enhanced_repository": "enhansome/enhansome-Awesome-WebExtensions",
     "enhanced_repository_description": null,
