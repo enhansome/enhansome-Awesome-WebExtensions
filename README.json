@@ -16,7 +16,8 @@
             "owner": "mozilla",
             "repo": "webextension-polyfill",
             "stars": 3069
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-07-18T14:34:01Z",
             "owner": "Glench",
             "repo": "ExtPay",
-            "stars": 762
-          }
+            "stars": 763
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "fregante",
             "repo": "webext-options-sync",
             "stars": 157
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "fregante",
             "repo": "webext-fun",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "ivantsov",
             "repo": "redux-webext",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "fregante",
             "repo": "webext-dynamic-content-scripts",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "fregante",
             "repo": "webext-storage-cache",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "OlegWock",
             "repo": "inject-react-anywhere",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         }
       ],
       "title": "Libraries and Frameworks"
@@ -138,11 +146,12 @@
             "archived": false,
             "id": 306484159,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T17:00:05Z",
+            "last_commit": "2026-08-28T00:58:23Z",
             "owner": "extension-js",
             "repo": "extension.js",
             "stars": 5069
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "mozilla",
             "repo": "web-ext",
             "stars": 3132
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "Rob--W",
             "repo": "crxviewer",
             "stars": 1712
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -186,8 +197,9 @@
             "last_commit": "2026-05-28T12:11:06Z",
             "owner": "fregante",
             "repo": "chrome-webstore-upload-cli",
-            "stars": 503
-          }
+            "stars": 504
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "rubenspgcavalcante",
             "repo": "webpack-extension-reloader",
             "stars": 497
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "LinusU",
             "repo": "wext-shipit",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "jiripospisil",
             "repo": "chrome-ext-downloader",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "awesome-webextension",
             "repo": "webpack-target-webextension",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "ZenHubIO",
             "repo": "chromepet",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "acvetkov",
             "repo": "chrome-store-api",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "abhijithvijayan",
             "repo": "wext-manifest-loader",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "jsmnbom",
             "repo": "webextension-manifest-loader",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         }
       ],
       "title": "Tools"
@@ -328,7 +348,8 @@
             "owner": "acvetkov",
             "repo": "sinon-chrome",
             "stars": 442
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -339,11 +360,12 @@
             "archived": false,
             "id": 42436885,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T13:03:46Z",
+            "last_commit": "2026-08-28T11:23:08Z",
             "owner": "mozilla",
             "repo": "addons-linter",
             "stars": 363
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "stoically",
             "repo": "webextensions-jsdom",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "stoically",
             "repo": "webextensions-api-fake",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "stoically",
             "repo": "webextensions-api-mock",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "stoically",
             "repo": "webextensions-schema",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         }
       ],
       "title": "Testing"
@@ -423,8 +449,9 @@
             "last_commit": "2026-08-22T00:18:53Z",
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10415
-          }
+            "stars": 10421
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "fregante",
             "repo": "browser-extension-template",
             "stars": 848
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "webextension-toolbox",
             "repo": "generator-web-extension",
             "stars": 318
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "rpl",
             "repo": "create-webextension",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         }
       ],
       "title": "Boilerplates"
@@ -490,7 +520,8 @@
             "owner": "mdn",
             "repo": "webextensions-examples",
             "stars": 4472
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -505,7 +536,8 @@
             "owner": "npmhub",
             "repo": "npmhub",
             "stars": 833
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         },
         {
           "node_type": "item",
@@ -520,14 +552,15 @@
             "owner": "sindresorhus",
             "repo": "hide-files-on-github",
             "stars": 320
-          }
+          },
+          "first_seen": "2026-08-28T20:10:50.919Z"
         }
       ],
       "title": "Sample Extensions"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:02:56.009Z",
+    "last_updated": "2026-08-28T20:10:50.919Z",
     "original_repository_info": {
       "archived": false,
       "id": 62128655,
