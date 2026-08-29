@@ -52,7 +52,7 @@ Code meant become part of the extension.
 
 Apps that help you manage your extensions.
 
-* [Extension.js](https://github.com/cezaraugusto/extension.js) ⭐ 5,070 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-28 - Plug-and-play, zero-config, cross-browser extension development tool.
+* [Extension.js](https://github.com/cezaraugusto/extension.js) ⭐ 5,070 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-29 - Plug-and-play, zero-config, cross-browser extension development tool.
 * [mozilla/web-ext](https://github.com/mozilla/web-ext) ⭐ 3,132 | 🐛 226 | 🌐 JavaScript | 📅 2026-08-24 - Command line tool to help build, run, and test WebExtensions.
 * [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) ⭐ 1,712 | 🐛 26 | 🌐 JavaScript | 📅 2026-06-21 - WebExtension to view source code of extensions directly on the store.
 * [Chrome Webstore Upload](https://github.com/fregante/chrome-webstore-upload-cli) ⭐ 504 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-28 - Upload the extension to the Chrome Web Store via cli (or on GitHub Actions, automatically).
@@ -76,7 +76,7 @@ Apps that help you manage your extensions.
 
 ## Boilerplates
 
-* [WXT](https://github.com/wxt-dev/wxt) ⭐ 10,421 | 🐛 196 | 🌐 TypeScript | 📅 2026-08-22 - Next-gen framework for developing web extensions
+* [WXT](https://github.com/wxt-dev/wxt) ⭐ 10,422 | 🐛 199 | 🌐 TypeScript | 📅 2026-08-22 - Next-gen framework for developing web extensions
 * [browser-extension-template](https://github.com/fregante/browser-extension-template) ⭐ 848 | 🐛 4 | 🌐 JavaScript | 📅 2025-02-03 - Barebones boilerplate with parcel, options handler and auto-publishing.
 * [generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension) ⭐ 318 | 🐛 13 | 🌐 JavaScript | 📅 2023-03-01 - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 * [create-webextension](https://github.com/rpl/create-webextension) ⭐ 25 | 🐛 11 | 🌐 JavaScript | 📅 2018-11-15 - Yarn WebExtension generator.
