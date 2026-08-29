@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A lightweight polyfill library for Promise-based WebExtension APIs in Chrome",
+            "homepage": null,
             "id": 70184134,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2026-07-30T12:16:33Z",
+            "open_issues": 0,
             "owner": "mozilla",
             "repo": "webextension-polyfill",
-            "stars": 3069
+            "stars": 3069,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -26,12 +31,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The JavaScript library for ExtensionPay.com — payments for your browser extensions, no server needed.",
+            "homepage": "https://extensionpay.com",
             "id": 327994237,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-18T14:34:01Z",
+            "open_issues": 11,
             "owner": "Glench",
             "repo": "ExtPay",
-            "stars": 763
+            "stars": 763,
+            "topics": [
+              "browser-extension",
+              "chrome-extension",
+              "firefox-extension",
+              "javascript-library",
+              "monetisation",
+              "monetise",
+              "monetization",
+              "monetize",
+              "payments",
+              "web-extensions"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -42,12 +63,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helps you manage and autosave your extension's options.",
+            "homepage": "https://npm.im/webext-options-sync",
             "id": 77394895,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-11-17T11:05:17Z",
+            "open_issues": 1,
             "owner": "fregante",
             "repo": "webext-options-sync",
-            "stars": 157
+            "stars": 157,
+            "topics": [
+              "webext",
+              "webextensions"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -58,12 +87,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebExtension packages for every need",
+            "homepage": null,
             "id": 392040446,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-03-16T08:34:28Z",
+            "open_issues": 0,
             "owner": "fregante",
             "repo": "webext-fun",
-            "stars": 138
+            "stars": 139,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -74,12 +108,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redux for WebExtensions",
+            "homepage": null,
             "id": 67285056,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-06-23T21:58:09Z",
+            "open_issues": 13,
             "owner": "ivantsov",
             "repo": "redux-webext",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "chrome",
+              "extension",
+              "firefox",
+              "react",
+              "redux",
+              "redux-store",
+              "redux-webext",
+              "store",
+              "webextension",
+              "webextensions"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -90,12 +140,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebExtension module: Automatically registers your content_scripts on domains added via permission.request",
+            "homepage": "https://npm.im/webext-dynamic-content-scripts",
             "id": 92524165,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-11T09:43:00Z",
+            "open_issues": 5,
             "owner": "fregante",
             "repo": "webext-dynamic-content-scripts",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "webext"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -106,12 +163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cache values in your Web Extension and clear them on expiration. Also includes a memoize-like API to cache any function results automatically",
+            "homepage": "https://npm.im/webext-storage-cache",
             "id": 190705441,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T09:50:59Z",
+            "open_issues": 2,
             "owner": "fregante",
             "repo": "webext-storage-cache",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -122,12 +184,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inject React components into 3rd-party sites using ShadowDOM with ease (and without troubles with styles)! Particularly useful in browser extensions",
+            "homepage": null,
             "id": 512001857,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-10-22T17:35:20Z",
+            "open_issues": 1,
             "owner": "OlegWock",
             "repo": "inject-react-anywhere",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "react",
+              "shadow-dom",
+              "webext",
+              "webextension"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         }
@@ -144,12 +216,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The cross-browser extension framework.",
+            "homepage": "https://extension.js.org",
             "id": 306484159,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T00:58:23Z",
+            "open_issues": 7,
             "owner": "extension-js",
             "repo": "extension.js",
-            "stars": 5069
+            "stars": 5070,
+            "topics": [
+              "browser-extension",
+              "chrome-extension",
+              "cli",
+              "content-script",
+              "cross-browser",
+              "edge-extension",
+              "extension-js",
+              "firefox-extension",
+              "manifest-v3",
+              "playwright",
+              "preact",
+              "react",
+              "safari-web-extension",
+              "scaffold",
+              "starter-template",
+              "svelte",
+              "typescript",
+              "vue",
+              "webextension",
+              "zero-config"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -160,12 +258,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command line tool to help build, run, and test web extensions",
+            "homepage": null,
             "id": 50859563,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-24T07:23:23Z",
+            "open_issues": 226,
             "owner": "mozilla",
             "repo": "web-ext",
-            "stars": 3132
+            "stars": 3132,
+            "topics": [
+              "add-ons",
+              "browser-extension",
+              "javascript",
+              "webextension",
+              "webextensions"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -176,12 +285,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.",
+            "homepage": "https://robwu.nl/crxviewer/",
             "id": 11240641,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2026-06-21T23:29:21Z",
+            "open_issues": 26,
             "owner": "Rob--W",
             "repo": "crxviewer",
-            "stars": 1712
+            "stars": 1712,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -192,12 +306,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI tool to upload Chrome Extensions to the Chrome Web Store",
+            "homepage": null,
             "id": 59445385,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-28T12:11:06Z",
+            "open_issues": 1,
             "owner": "fregante",
             "repo": "chrome-webstore-upload-cli",
-            "stars": 504
+            "stars": 504,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -208,12 +327,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A upgrade from 🔥webpack-chrome-extension-reloader🔥, now on all browsers",
+            "homepage": null,
             "id": 183030748,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-04T21:44:11Z",
+            "open_issues": 90,
             "owner": "rubenspgcavalcante",
             "repo": "webpack-extension-reloader",
-            "stars": 497
+            "stars": 497,
+            "topics": [
+              "browser-extension",
+              "extensions",
+              "hot-reloading",
+              "webpack",
+              "webpack-plugin"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -224,12 +354,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automate the process of shipping Web Extensions for Chrome, Firefox, Safari, Opera and Edge",
+            "homepage": null,
             "id": 120902326,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-06-12T19:36:21Z",
+            "open_issues": 9,
             "owner": "LinusU",
             "repo": "wext-shipit",
-            "stars": 134
+            "stars": 134,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -240,12 +375,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A simple utility for downloading Chrome extensions",
+            "homepage": null,
             "id": 16578236,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-07-30T19:25:49Z",
+            "open_issues": 1,
             "owner": "jiripospisil",
             "repo": "chrome-ext-downloader",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -256,12 +396,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebExtension Target for Webpack 5. Supports code-splitting and HMR.",
+            "homepage": null,
             "id": 251015488,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-04-14T08:59:25Z",
+            "open_issues": 4,
             "owner": "awesome-webextension",
             "repo": "webpack-target-webextension",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "webextension"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -272,12 +419,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A NodeJS module for reporting new version of Chrome extension being published on Chrome Web Store",
+            "homepage": null,
             "id": 26351398,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2014-11-09T19:54:08Z",
+            "open_issues": 5,
             "owner": "ZenHubIO",
             "repo": "chromepet",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -288,12 +440,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chrome Webstore API",
+            "homepage": null,
             "id": 47254250,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-02-12T15:25:58Z",
+            "open_issues": 2,
             "owner": "acvetkov",
             "repo": "chrome-store-api",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -304,12 +461,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Webextension Manifest Generator that you specify `manifest.json` properties to appear only in specific browsers and environment",
+            "homepage": "https://github.com/abhijithvijayan/web-extension-starter",
             "id": 218565653,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-04T13:24:52Z",
+            "open_issues": 2,
             "owner": "abhijithvijayan",
             "repo": "wext-manifest-loader",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "generator",
+              "javascript",
+              "manifest",
+              "nodejs",
+              "npm",
+              "webextension"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -320,12 +489,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Webpack loader that loads browser tailored manifest.json. It also imports all importable properties, allowing you to have 'manifest.json' as your only webpack entry point.",
+            "homepage": null,
             "id": 273896953,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-06-11T21:58:16Z",
+            "open_issues": 2,
             "owner": "jsmnbom",
             "repo": "webextension-manifest-loader",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         }
@@ -342,12 +516,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Testing chrome extensions with Node.js",
+            "homepage": null,
             "id": 26225883,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2021-07-12T14:06:30Z",
+            "open_issues": 37,
             "owner": "acvetkov",
             "repo": "sinon-chrome",
-            "stars": 442
+            "stars": 442,
+            "topics": [
+              "chrome",
+              "chrome-api",
+              "chrome-events",
+              "javascript",
+              "sinon-chrome"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -358,12 +543,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔍 Firefox Add-ons linter, written in JavaScript. 👁",
+            "homepage": null,
             "id": 42436885,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-28T11:23:08Z",
+            "open_issues": 69,
             "owner": "mozilla",
             "repo": "addons-linter",
-            "stars": 363
+            "stars": 363,
+            "topics": [
+              "cli",
+              "web-extensions"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -374,12 +567,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Load popup, sidebar and background with JSDOM based on the manifest.json for testing purposes",
+            "homepage": null,
             "id": 123647313,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2022-06-30T22:15:33Z",
+            "open_issues": 0,
             "owner": "stoically",
             "repo": "webextensions-jsdom",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -390,12 +588,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "In-memory WebExtensions API Fake Implementation for testing purposes",
+            "homepage": null,
             "id": 123505306,
             "language": "TypeScript",
+            "license": "MPL-2.0",
             "last_commit": "2020-06-08T11:18:26Z",
+            "open_issues": 2,
             "owner": "stoically",
             "repo": "webextensions-api-fake",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -406,12 +609,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebExtensions API as sinon stubs",
+            "homepage": null,
             "id": 222238771,
             "language": "TypeScript",
+            "license": "MPL-2.0",
             "last_commit": "2020-01-29T11:40:35Z",
+            "open_issues": 1,
             "owner": "stoically",
             "repo": "webextensions-api-mock",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -422,12 +630,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Programmatically consume the WebExtensions Schema JSON files",
+            "homepage": null,
             "id": 222153272,
             "language": "TypeScript",
+            "license": "MPL-2.0",
             "last_commit": "2022-06-24T17:15:39Z",
+            "open_issues": 0,
             "owner": "stoically",
             "repo": "webextensions-schema",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "schemas",
+              "webextensions"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         }
@@ -444,12 +660,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡ Next-gen Web Extension Framework",
+            "homepage": "https://wxt.dev",
             "id": 658389713,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T00:18:53Z",
+            "open_issues": 196,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10421
+            "stars": 10421,
+            "topics": [
+              "build-tool",
+              "chrome-extensions",
+              "dev-server",
+              "hmr",
+              "wxt"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -460,12 +687,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📕 Barebones boilerplate with Parcel 2, options handler and auto-publishing",
+            "homepage": null,
             "id": 192725951,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-02-03T05:11:51Z",
+            "open_issues": 4,
             "owner": "fregante",
             "repo": "browser-extension-template",
-            "stars": 848
+            "stars": 848,
+            "topics": [
+              "browser-extension",
+              "chrome-extension",
+              "firefox-extension",
+              "github-template",
+              "parcel",
+              "webextensions"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -476,12 +715,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced WebExtension generator that creates everything you need to get started with cross-browser web-extension development.",
+            "homepage": "https://npmjs.com/generator-web-extension",
             "id": 116699344,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-01T11:03:40Z",
+            "open_issues": 13,
             "owner": "webextension-toolbox",
             "repo": "generator-web-extension",
-            "stars": 318
+            "stars": 318,
+            "topics": [
+              "chrome-extension",
+              "edge-extension",
+              "firefox-extension",
+              "generator",
+              "opera-extension",
+              "web-extension",
+              "yeoman",
+              "yeoman-generator"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -492,12 +745,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "create a new WebExtension with only one command",
+            "homepage": null,
             "id": 92510672,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2018-11-15T06:42:29Z",
+            "open_issues": 11,
             "owner": "rpl",
             "repo": "create-webextension",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         }
@@ -514,12 +772,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example Firefox add-ons created using the WebExtensions API",
+            "homepage": "https://developer.mozilla.org/en-US/Add-ons/WebExtensions",
             "id": 40733543,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2026-07-30T09:27:24Z",
+            "open_issues": 32,
             "owner": "mdn",
             "repo": "webextensions-examples",
-            "stars": 4472
+            "stars": 4472,
+            "topics": [
+              "browser",
+              "mdn",
+              "webextensions",
+              "webextensions-apis"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -530,12 +798,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔎 A browser extension to explore npm dependencies on GitHub repos",
+            "homepage": "https://npmhub.org",
             "id": 11294971,
             "language": "Svelte",
+            "license": "MIT",
             "last_commit": "2024-08-13T17:15:34Z",
+            "open_issues": 5,
             "owner": "npmhub",
             "repo": "npmhub",
-            "stars": 833
+            "stars": 833,
+            "topics": [
+              "browser-extension",
+              "chrome-extension",
+              "firefox-addon",
+              "github",
+              "github-extension",
+              "npm",
+              "safari-extension"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         },
@@ -546,12 +827,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Chrome extension - Hide nonessential files from the GitHub file browser",
+            "homepage": "https://chrome.google.com/webstore/detail/hide-files-on-github/lpnakhpaodhdkleejaehlapdhbgjbddp",
             "id": 22393482,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-04T02:02:34Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "hide-files-on-github",
-            "stars": 320
+            "stars": 320,
+            "topics": [
+              "browser-extension",
+              "chrome",
+              "chrome-extension",
+              "github",
+              "javascript",
+              "repo"
+            ]
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
         }
@@ -560,15 +853,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:10:50.919Z",
+    "last_updated": "2026-08-29T04:29:39.822Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome resources for WebExtensions development.",
+      "homepage": null,
       "id": 62128655,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-04T06:48:00Z",
+      "open_issues": 0,
       "owner": "fregante",
       "repo": "Awesome-WebExtensions",
-      "stars": 1509
+      "stars": 1509,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "webext"
+      ]
     },
     "original_repository_sha": "c70286f5b8356c84fe468c543fab166763dea6bf",
     "enhanced_repository": "enhansome/enhansome-Awesome-WebExtensions",
