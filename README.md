@@ -39,11 +39,11 @@ Follow [@fregante](https://fregante.com) for more webext-related news.
 Code meant become part of the extension.
 
 * [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) ⚠️ Archived - Polyfill to support the standardized promise based API in the `browser` namespace.
-* [ExtPay](https://github.com/Glench/ExtPay) ⭐ 763 | 🐛 11 | 🌐 JavaScript | 📅 2026-07-18 - Take secure payments in extensions without needing to run a server backend.
+* [ExtPay](https://github.com/Glench/ExtPay) ⭐ 764 | 🐛 11 | 🌐 JavaScript | 📅 2026-07-18 - Take secure payments in extensions without needing to run a server backend.
 * [webext-options-sync](https://github.com/fregante/webext-options-sync) ⭐ 157 | 🐛 1 | 🌐 TypeScript | 📅 2024-11-17 - Helps you manage and autosave your extension's options.
 * [More…](https://github.com/fregante/webext-fun) ⭐ 139 | 🐛 0 | 📅 2025-03-16
 * [redux-webext](https://github.com/ivantsov/redux-webext) ⭐ 108 | 🐛 13 | 🌐 JavaScript | 📅 2022-06-23 - Uses Redux for managing the state of your WebExtension.
-* [webext-dynamic-content-scripts](https://github.com/fregante/webext-dynamic-content-scripts) ⭐ 92 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-11 - Automatically inject your `content_scripts` on custom domains.
+* [webext-dynamic-content-scripts](https://github.com/fregante/webext-dynamic-content-scripts) ⭐ 92 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-30 - Automatically inject your `content_scripts` on custom domains.
 * [webext-storage-cache](https://github.com/fregante/webext-storage-cache) ⭐ 83 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-05 - Map-like promised cache storage with expiration.
 * [inject-react-anywhere](https://github.com/OlegWock/inject-react-anywhere) ⭐ 59 | 🐛 1 | 🌐 TypeScript | 📅 2024-10-22 - Inject React components into 3rd party sites with convenient API and styles isolation.
 * [@types/firefox-webext-browser](https://www.npmjs.com/package/@types/firefox-webext-browser) - Supplies TypeScript types for the `browser` namespace.
@@ -52,8 +52,8 @@ Code meant become part of the extension.
 
 Apps that help you manage your extensions.
 
-* [Extension.js](https://github.com/cezaraugusto/extension.js) ⭐ 5,070 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-29 - Plug-and-play, zero-config, cross-browser extension development tool.
-* [mozilla/web-ext](https://github.com/mozilla/web-ext) ⭐ 3,132 | 🐛 226 | 🌐 JavaScript | 📅 2026-08-24 - Command line tool to help build, run, and test WebExtensions.
+* [Extension.js](https://github.com/cezaraugusto/extension.js) ⭐ 5,071 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-29 - Plug-and-play, zero-config, cross-browser extension development tool.
+* [mozilla/web-ext](https://github.com/mozilla/web-ext) ⭐ 3,133 | 🐛 226 | 🌐 JavaScript | 📅 2026-08-24 - Command line tool to help build, run, and test WebExtensions.
 * [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) ⭐ 1,712 | 🐛 26 | 🌐 JavaScript | 📅 2026-06-21 - WebExtension to view source code of extensions directly on the store.
 * [Chrome Webstore Upload](https://github.com/fregante/chrome-webstore-upload-cli) ⭐ 504 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-28 - Upload the extension to the Chrome Web Store via cli (or on GitHub Actions, automatically).
 * [webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) ⭐ 497 | 🐛 90 | 🌐 TypeScript | 📅 2023-01-04 - A Webpack plugin to automatically reload browser extensions during development.
@@ -76,7 +76,7 @@ Apps that help you manage your extensions.
 
 ## Boilerplates
 
-* [WXT](https://github.com/wxt-dev/wxt) ⭐ 10,422 | 🐛 199 | 🌐 TypeScript | 📅 2026-08-22 - Next-gen framework for developing web extensions
+* [WXT](https://github.com/wxt-dev/wxt) ⭐ 10,428 | 🐛 200 | 🌐 TypeScript | 📅 2026-08-22 - Next-gen framework for developing web extensions
 * [browser-extension-template](https://github.com/fregante/browser-extension-template) ⭐ 848 | 🐛 4 | 🌐 JavaScript | 📅 2025-02-03 - Barebones boilerplate with parcel, options handler and auto-publishing.
 * [generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension) ⭐ 318 | 🐛 13 | 🌐 JavaScript | 📅 2023-03-01 - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 * [create-webextension](https://github.com/rpl/create-webextension) ⭐ 25 | 🐛 11 | 🌐 JavaScript | 📅 2018-11-15 - Yarn WebExtension generator.
@@ -91,4 +91,4 @@ These are simple and modern WebExtensions repositories that could help you figur
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
