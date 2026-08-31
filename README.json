@@ -225,7 +225,7 @@
             "open_issues": 6,
             "owner": "extension-js",
             "repo": "extension.js",
-            "stars": 5071,
+            "stars": 5091,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -263,8 +263,8 @@
             "id": 50859563,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-08-24T07:23:23Z",
-            "open_issues": 226,
+            "last_commit": "2026-08-31T07:21:39Z",
+            "open_issues": 225,
             "owner": "mozilla",
             "repo": "web-ext",
             "stars": 3133,
@@ -548,7 +548,7 @@
             "id": 42436885,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-08-28T11:23:08Z",
+            "last_commit": "2026-08-31T11:23:33Z",
             "open_issues": 69,
             "owner": "mozilla",
             "repo": "addons-linter",
@@ -669,7 +669,7 @@
             "open_issues": 200,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10428,
+            "stars": 10432,
             "topics": [
               "build-tool",
               "chrome-extensions",
@@ -724,7 +724,7 @@
             "open_issues": 13,
             "owner": "webextension-toolbox",
             "repo": "generator-web-extension",
-            "stars": 318,
+            "stars": 319,
             "topics": [
               "chrome-extension",
               "edge-extension",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T13:46:56.508Z",
+    "last_updated": "2026-08-31T16:07:36.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",

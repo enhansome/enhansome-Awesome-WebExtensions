@@ -52,8 +52,8 @@ Code meant become part of the extension.
 
 Apps that help you manage your extensions.
 
-* [Extension.js](https://github.com/cezaraugusto/extension.js) ⭐ 5,071 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-29 - Plug-and-play, zero-config, cross-browser extension development tool.
-* [mozilla/web-ext](https://github.com/mozilla/web-ext) ⭐ 3,133 | 🐛 226 | 🌐 JavaScript | 📅 2026-08-24 - Command line tool to help build, run, and test WebExtensions.
+* [Extension.js](https://github.com/cezaraugusto/extension.js) ⭐ 5,091 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-29 - Plug-and-play, zero-config, cross-browser extension development tool.
+* [mozilla/web-ext](https://github.com/mozilla/web-ext) ⭐ 3,133 | 🐛 225 | 🌐 JavaScript | 📅 2026-08-31 - Command line tool to help build, run, and test WebExtensions.
 * [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) ⭐ 1,712 | 🐛 26 | 🌐 JavaScript | 📅 2026-06-21 - WebExtension to view source code of extensions directly on the store.
 * [Chrome Webstore Upload](https://github.com/fregante/chrome-webstore-upload-cli) ⭐ 504 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-28 - Upload the extension to the Chrome Web Store via cli (or on GitHub Actions, automatically).
 * [webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) ⭐ 497 | 🐛 90 | 🌐 TypeScript | 📅 2023-01-04 - A Webpack plugin to automatically reload browser extensions during development.
@@ -68,7 +68,7 @@ Apps that help you manage your extensions.
 ## Testing
 
 * [sinon-chrome](https://github.com/acvetkov/sinon-chrome) ⭐ 442 | 🐛 37 | 🌐 JavaScript | 📅 2021-07-12 - Mocks the Chrome Extensions API for testing.
-* [addons-linter](https://github.com/mozilla/addons-linter) ⭐ 363 | 🐛 69 | 🌐 JavaScript | 📅 2026-08-28 - Validate an extension against Mozilla's guidelines.
+* [addons-linter](https://github.com/mozilla/addons-linter) ⭐ 363 | 🐛 69 | 🌐 JavaScript | 📅 2026-08-31 - Validate an extension against Mozilla's guidelines.
 * [webextensions-jsdom](https://github.com/stoically/webextensions-jsdom) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2022-06-30 - Load popup, sidebar and background with JSDOM based on the manifest.json.
 * [webextensions-api-fake](https://github.com/stoically/webextensions-api-fake) ⭐ 18 | 🐛 2 | 🌐 TypeScript | 📅 2020-06-08 - In-memory WebExtensions API Fake Implementation (includes TypeScript types).
 * [webextensions-api-mock](https://github.com/stoically/webextensions-api-mock) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2020-01-29 - WebExtensions API as sinon stubs (includes TypeScript types).
@@ -76,9 +76,9 @@ Apps that help you manage your extensions.
 
 ## Boilerplates
 
-* [WXT](https://github.com/wxt-dev/wxt) ⭐ 10,428 | 🐛 200 | 🌐 TypeScript | 📅 2026-08-22 - Next-gen framework for developing web extensions
+* [WXT](https://github.com/wxt-dev/wxt) ⭐ 10,432 | 🐛 200 | 🌐 TypeScript | 📅 2026-08-22 - Next-gen framework for developing web extensions
 * [browser-extension-template](https://github.com/fregante/browser-extension-template) ⭐ 848 | 🐛 4 | 🌐 JavaScript | 📅 2025-02-03 - Barebones boilerplate with parcel, options handler and auto-publishing.
-* [generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension) ⭐ 318 | 🐛 13 | 🌐 JavaScript | 📅 2023-03-01 - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
+* [generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension) ⭐ 319 | 🐛 13 | 🌐 JavaScript | 📅 2023-03-01 - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 * [create-webextension](https://github.com/rpl/create-webextension) ⭐ 25 | 🐛 11 | 🌐 JavaScript | 📅 2018-11-15 - Yarn WebExtension generator.
 
 ## Sample Extensions
@@ -91,4 +91,4 @@ These are simple and modern WebExtensions repositories that could help you figur
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
