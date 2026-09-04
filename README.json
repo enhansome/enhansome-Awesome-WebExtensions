@@ -225,7 +225,7 @@
             "open_issues": 6,
             "owner": "extension-js",
             "repo": "extension.js",
-            "stars": 5136,
+            "stars": 5138,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -548,8 +548,8 @@
             "id": 42436885,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-03T00:13:16Z",
-            "open_issues": 68,
+            "last_commit": "2026-09-04T11:24:24Z",
+            "open_issues": 73,
             "owner": "mozilla",
             "repo": "addons-linter",
             "stars": 362,
@@ -666,10 +666,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-02T00:45:44Z",
-            "open_issues": 201,
+            "open_issues": 203,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10448,
+            "stars": 10452,
             "topics": [
               "build-tool",
               "chrome-extensions",
@@ -777,8 +777,8 @@
             "id": 40733543,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-02T15:02:46Z",
-            "open_issues": 31,
+            "last_commit": "2026-09-03T17:40:40Z",
+            "open_issues": 30,
             "owner": "mdn",
             "repo": "webextensions-examples",
             "stars": 4472,
@@ -807,7 +807,7 @@
             "open_issues": 5,
             "owner": "npmhub",
             "repo": "npmhub",
-            "stars": 833,
+            "stars": 834,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T12:47:41.697Z",
+    "last_updated": "2026-09-04T12:41:37.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
@@ -865,7 +865,7 @@
       "open_issues": 0,
       "owner": "fregante",
       "repo": "Awesome-WebExtensions",
-      "stars": 1509,
+      "stars": 1511,
       "topics": [
         "awesome",
         "awesome-list",
