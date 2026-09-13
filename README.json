@@ -37,7 +37,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-07-18T14:34:01Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "Glench",
             "repo": "ExtPay",
             "stars": 765,
@@ -225,7 +225,7 @@
             "open_issues": 5,
             "owner": "extension-js",
             "repo": "extension.js",
-            "stars": 5154,
+            "stars": 5157,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -264,7 +264,7 @@
             "language": "JavaScript",
             "license": "MPL-2.0",
             "last_commit": "2026-09-11T08:26:05Z",
-            "open_issues": 218,
+            "open_issues": 223,
             "owner": "mozilla",
             "repo": "web-ext",
             "stars": 3134,
@@ -665,11 +665,11 @@
             "id": 658389713,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T20:38:18Z",
-            "open_issues": 211,
+            "last_commit": "2026-09-12T19:19:51Z",
+            "open_issues": 212,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10484,
+            "stars": 10492,
             "topics": [
               "build-tool",
               "chrome-extensions",
@@ -696,7 +696,7 @@
             "open_issues": 4,
             "owner": "fregante",
             "repo": "browser-extension-template",
-            "stars": 848,
+            "stars": 847,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -781,7 +781,7 @@
             "open_issues": 31,
             "owner": "mdn",
             "repo": "webextensions-examples",
-            "stars": 4477,
+            "stars": 4476,
             "topics": [
               "browser",
               "mdn",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T12:08:16.457Z",
+    "last_updated": "2026-09-13T13:17:29.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",

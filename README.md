@@ -39,7 +39,7 @@ Follow [@fregante](https://fregante.com) for more webext-related news.
 Code meant become part of the extension.
 
 * [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) ⚠️ Archived - Polyfill to support the standardized promise based API in the `browser` namespace.
-* [ExtPay](https://github.com/Glench/ExtPay) ⭐ 765 | 🐛 11 | 🌐 JavaScript | 📅 2026-07-18 - Take secure payments in extensions without needing to run a server backend.
+* [ExtPay](https://github.com/Glench/ExtPay) ⭐ 765 | 🐛 12 | 🌐 JavaScript | 📅 2026-07-18 - Take secure payments in extensions without needing to run a server backend.
 * [webext-options-sync](https://github.com/fregante/webext-options-sync) ⭐ 157 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-09 - Helps you manage and autosave your extension's options.
 * [More…](https://github.com/fregante/webext-fun) ⭐ 139 | 🐛 0 | 📅 2025-03-16
 * [redux-webext](https://github.com/ivantsov/redux-webext) ⭐ 108 | 🐛 13 | 🌐 JavaScript | 📅 2022-06-23 - Uses Redux for managing the state of your WebExtension.
@@ -52,8 +52,8 @@ Code meant become part of the extension.
 
 Apps that help you manage your extensions.
 
-* [Extension.js](https://github.com/cezaraugusto/extension.js) ⭐ 5,154 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-12 - Plug-and-play, zero-config, cross-browser extension development tool.
-* [mozilla/web-ext](https://github.com/mozilla/web-ext) ⭐ 3,134 | 🐛 218 | 🌐 JavaScript | 📅 2026-09-11 - Command line tool to help build, run, and test WebExtensions.
+* [Extension.js](https://github.com/cezaraugusto/extension.js) ⭐ 5,157 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-12 - Plug-and-play, zero-config, cross-browser extension development tool.
+* [mozilla/web-ext](https://github.com/mozilla/web-ext) ⭐ 3,134 | 🐛 223 | 🌐 JavaScript | 📅 2026-09-11 - Command line tool to help build, run, and test WebExtensions.
 * [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) ⭐ 1,716 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-01 - WebExtension to view source code of extensions directly on the store.
 * [Chrome Webstore Upload](https://github.com/fregante/chrome-webstore-upload-cli) ⭐ 504 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-28 - Upload the extension to the Chrome Web Store via cli (or on GitHub Actions, automatically).
 * [webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) ⭐ 497 | 🐛 90 | 🌐 TypeScript | 📅 2023-01-04 - A Webpack plugin to automatically reload browser extensions during development.
@@ -76,8 +76,8 @@ Apps that help you manage your extensions.
 
 ## Boilerplates
 
-* [WXT](https://github.com/wxt-dev/wxt) ⭐ 10,484 | 🐛 211 | 🌐 TypeScript | 📅 2026-09-07 - Next-gen framework for developing web extensions
-* [browser-extension-template](https://github.com/fregante/browser-extension-template) ⭐ 848 | 🐛 4 | 🌐 JavaScript | 📅 2025-02-03 - Barebones boilerplate with parcel, options handler and auto-publishing.
+* [WXT](https://github.com/wxt-dev/wxt) ⭐ 10,492 | 🐛 212 | 🌐 TypeScript | 📅 2026-09-12 - Next-gen framework for developing web extensions
+* [browser-extension-template](https://github.com/fregante/browser-extension-template) ⭐ 847 | 🐛 4 | 🌐 JavaScript | 📅 2025-02-03 - Barebones boilerplate with parcel, options handler and auto-publishing.
 * [generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension) ⭐ 319 | 🐛 13 | 🌐 JavaScript | 📅 2023-03-01 - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 * [create-webextension](https://github.com/rpl/create-webextension) ⭐ 25 | 🐛 11 | 🌐 JavaScript | 📅 2018-11-15 - Yarn WebExtension generator.
 
@@ -85,10 +85,10 @@ Apps that help you manage your extensions.
 
 These are simple and modern WebExtensions repositories that could help you figure out where pieces go, including automatic deployment via GitHub Actions.
 
-* [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) ⭐ 4,477 | 🐛 31 | 🌐 JavaScript | 📅 2026-09-10 - Various example extensions curated for the MDN documentation.
+* [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) ⭐ 4,476 | 🐛 31 | 🌐 JavaScript | 📅 2026-09-10 - Various example extensions curated for the MDN documentation.
 * [npmhub](https://github.com/npmhub/npmhub) ⭐ 834 | 🐛 5 | 🌐 Svelte | 📅 2024-08-13
 * [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github) ⚠️ Archived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
