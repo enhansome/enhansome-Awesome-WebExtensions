@@ -52,10 +52,10 @@ Code meant become part of the extension.
 
 Apps that help you manage your extensions.
 
-* [Extension.js](https://github.com/cezaraugusto/extension.js) ⭐ 5,159 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-15 - Plug-and-play, zero-config, cross-browser extension development tool.
-* [mozilla/web-ext](https://github.com/mozilla/web-ext) ⭐ 3,137 | 🐛 223 | 🌐 JavaScript | 📅 2026-09-15 - Command line tool to help build, run, and test WebExtensions.
-* [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) ⭐ 1,717 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-01 - WebExtension to view source code of extensions directly on the store.
-* [Chrome Webstore Upload](https://github.com/fregante/chrome-webstore-upload-cli) ⭐ 504 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-28 - Upload the extension to the Chrome Web Store via cli (or on GitHub Actions, automatically).
+* [Extension.js](https://github.com/cezaraugusto/extension.js) ⭐ 5,160 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-16 - Plug-and-play, zero-config, cross-browser extension development tool.
+* [mozilla/web-ext](https://github.com/mozilla/web-ext) ⭐ 3,138 | 🐛 223 | 🌐 JavaScript | 📅 2026-09-16 - Command line tool to help build, run, and test WebExtensions.
+* [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) ⭐ 1,718 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-01 - WebExtension to view source code of extensions directly on the store.
+* [Chrome Webstore Upload](https://github.com/fregante/chrome-webstore-upload-cli) ⭐ 505 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-28 - Upload the extension to the Chrome Web Store via cli (or on GitHub Actions, automatically).
 * [webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) ⭐ 497 | 🐛 90 | 🌐 TypeScript | 📅 2023-01-04 - A Webpack plugin to automatically reload browser extensions during development.
 * [@wext/shipit](https://github.com/LinusU/wext-shipit) ⭐ 134 | 🐛 9 | 🌐 JavaScript | 📅 2021-06-12 - Tool to automatically publish to Chrome Web Store, Mozilla Addons and Opera Addons.
 * [chrome-ext-downloader](https://github.com/jiripospisil/chrome-ext-downloader) ⚠️ Archived - Download any extension on Chrome Web Store to see how they do it.
@@ -76,7 +76,7 @@ Apps that help you manage your extensions.
 
 ## Boilerplates
 
-* [WXT](https://github.com/wxt-dev/wxt) ⭐ 10,504 | 🐛 214 | 🌐 TypeScript | 📅 2026-09-12 - Next-gen framework for developing web extensions
+* [WXT](https://github.com/wxt-dev/wxt) ⭐ 10,511 | 🐛 215 | 🌐 TypeScript | 📅 2026-09-16 - Next-gen framework for developing web extensions
 * [browser-extension-template](https://github.com/fregante/browser-extension-template) ⭐ 847 | 🐛 4 | 🌐 JavaScript | 📅 2025-02-03 - Barebones boilerplate with parcel, options handler and auto-publishing.
 * [generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension) ⭐ 319 | 🐛 13 | 🌐 JavaScript | 📅 2023-03-01 - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 * [create-webextension](https://github.com/rpl/create-webextension) ⭐ 25 | 🐛 11 | 🌐 JavaScript | 📅 2018-11-15 - Yarn WebExtension generator.
@@ -85,10 +85,10 @@ Apps that help you manage your extensions.
 
 These are simple and modern WebExtensions repositories that could help you figure out where pieces go, including automatic deployment via GitHub Actions.
 
-* [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) ⭐ 4,476 | 🐛 31 | 🌐 JavaScript | 📅 2026-09-10 - Various example extensions curated for the MDN documentation.
+* [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) ⭐ 4,475 | 🐛 31 | 🌐 JavaScript | 📅 2026-09-10 - Various example extensions curated for the MDN documentation.
 * [npmhub](https://github.com/npmhub/npmhub) ⭐ 834 | 🐛 5 | 🌐 Svelte | 📅 2024-08-13
 * [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github) ⚠️ Archived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
