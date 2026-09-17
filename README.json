@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "mozilla",
             "repo": "webextension-polyfill",
-            "stars": 3068,
+            "stars": 3067,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -40,7 +40,7 @@
             "open_issues": 11,
             "owner": "Glench",
             "repo": "ExtPay",
-            "stars": 765,
+            "stars": 766,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -149,7 +149,7 @@
             "open_issues": 5,
             "owner": "fregante",
             "repo": "webext-dynamic-content-scripts",
-            "stars": 92,
+            "stars": 91,
             "topics": [
               "webext"
             ]
@@ -212,7 +212,7 @@
         {
           "node_type": "item",
           "title": "Extension.js",
-          "description": "Plug-and-play, zero-config, cross-browser extension development tool.",
+          "description": "Zero-config CLI to develop, build and package extensions for Chrome, Edge, Firefox and Safari.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -221,11 +221,11 @@
             "id": 306484159,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T12:43:55Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-17T11:58:37Z",
+            "open_issues": 9,
             "owner": "extension-js",
             "repo": "extension.js",
-            "stars": 5160,
+            "stars": 5159,
             "topics": [
               "browser-extension",
               "build-tool",
@@ -263,7 +263,7 @@
             "id": 50859563,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-16T08:37:33Z",
+            "last_commit": "2026-09-17T07:30:25Z",
             "open_issues": 223,
             "owner": "mozilla",
             "repo": "web-ext",
@@ -294,7 +294,7 @@
             "open_issues": 19,
             "owner": "Rob--W",
             "repo": "crxviewer",
-            "stars": 1718,
+            "stars": 1717,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -548,11 +548,11 @@
             "id": 42436885,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-15T08:22:46Z",
+            "last_commit": "2026-09-17T12:38:10Z",
             "open_issues": 62,
             "owner": "mozilla",
             "repo": "addons-linter",
-            "stars": 363,
+            "stars": 362,
             "topics": [
               "cli",
               "web-extensions"
@@ -656,7 +656,7 @@
         {
           "node_type": "item",
           "title": "WXT",
-          "description": "Next-gen framework for developing web extensions",
+          "description": "Next-gen framework for developing web extensions.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -669,7 +669,7 @@
             "open_issues": 215,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10511,
+            "stars": 10516,
             "topics": [
               "build-tool",
               "chrome-extensions",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T13:28:00.845Z",
+    "last_updated": "2026-09-17T13:23:28.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
@@ -861,18 +861,18 @@
       "id": 62128655,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-10T05:39:08Z",
-      "open_issues": 0,
+      "last_commit": "2026-09-16T16:39:59Z",
+      "open_issues": 1,
       "owner": "fregante",
       "repo": "Awesome-WebExtensions",
-      "stars": 1511,
+      "stars": 1510,
       "topics": [
         "awesome",
         "awesome-list",
         "webext"
       ]
     },
-    "original_repository_sha": "630fb83b517d2c38d03d35d0c1b23e53a005a923",
+    "original_repository_sha": "d3d4c33440212f8fe5264de42560e0e5248f653c",
     "enhanced_repository": "enhansome/enhansome-Awesome-WebExtensions",
     "enhanced_repository_description": null,
     "title": "Awesome WebExtensions with stars"
