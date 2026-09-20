@@ -37,10 +37,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-07-18T14:34:01Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "Glench",
             "repo": "ExtPay",
-            "stars": 767,
+            "stars": 768,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -221,11 +221,11 @@
             "id": 306484159,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T23:48:25Z",
+            "last_commit": "2026-09-20T12:45:15Z",
             "open_issues": 6,
             "owner": "extension-js",
             "repo": "extension.js",
-            "stars": 5162,
+            "stars": 5165,
             "topics": [
               "browser-extension",
               "build-tool",
@@ -315,7 +315,7 @@
             "open_issues": 1,
             "owner": "fregante",
             "repo": "chrome-webstore-upload-cli",
-            "stars": 505,
+            "stars": 506,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -669,7 +669,7 @@
             "open_issues": 216,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10522,
+            "stars": 10524,
             "topics": [
               "build-tool",
               "chrome-extensions",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T12:27:46.950Z",
+    "last_updated": "2026-09-20T13:01:19.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
