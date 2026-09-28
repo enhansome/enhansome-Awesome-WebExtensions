@@ -40,7 +40,7 @@
             "open_issues": 11,
             "owner": "Glench",
             "repo": "ExtPay",
-            "stars": 770,
+            "stars": 771,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -222,10 +222,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-26T02:04:47Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "extension-js",
             "repo": "extension.js",
-            "stars": 5173,
+            "stars": 5174,
             "topics": [
               "browser-extension",
               "build-tool",
@@ -263,8 +263,8 @@
             "id": 50859563,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-25T09:08:13Z",
-            "open_issues": 221,
+            "last_commit": "2026-09-28T13:47:57Z",
+            "open_issues": 222,
             "owner": "mozilla",
             "repo": "web-ext",
             "stars": 3139,
@@ -294,7 +294,7 @@
             "open_issues": 19,
             "owner": "Rob--W",
             "repo": "crxviewer",
-            "stars": 1716,
+            "stars": 1717,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -548,8 +548,8 @@
             "id": 42436885,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-25T13:20:39Z",
-            "open_issues": 61,
+            "last_commit": "2026-09-28T14:01:01Z",
+            "open_issues": 63,
             "owner": "mozilla",
             "repo": "addons-linter",
             "stars": 363,
@@ -669,7 +669,7 @@
             "open_issues": 221,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10548,
+            "stars": 10552,
             "topics": [
               "build-tool",
               "chrome-extensions",
@@ -724,7 +724,7 @@
             "open_issues": 13,
             "owner": "webextension-toolbox",
             "repo": "generator-web-extension",
-            "stars": 320,
+            "stars": 319,
             "topics": [
               "chrome-extension",
               "edge-extension",
@@ -777,7 +777,7 @@
             "id": 40733543,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-23T16:54:32Z",
+            "last_commit": "2026-09-28T15:40:24Z",
             "open_issues": 32,
             "owner": "mdn",
             "repo": "webextensions-examples",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T13:53:49.021Z",
+    "last_updated": "2026-09-28T16:43:36.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
