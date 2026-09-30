@@ -39,9 +39,9 @@ Follow [@fregante](https://fregante.com) for more webext-related news.
 Code meant become part of the extension.
 
 * [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) ⚠️ Archived - Polyfill to support the standardized promise based API in the `browser` namespace.
-* [ExtPay](https://github.com/Glench/ExtPay) ⭐ 771 | 🐛 12 | 🌐 JavaScript | 📅 2026-07-18 - Take secure payments in extensions without needing to run a server backend.
+* [ExtPay](https://github.com/Glench/ExtPay) ⭐ 772 | 🐛 12 | 🌐 JavaScript | 📅 2026-07-18 - Take secure payments in extensions without needing to run a server backend.
 * [webext-options-sync](https://github.com/fregante/webext-options-sync) ⭐ 157 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-26 - Helps you manage and autosave your extension's options.
-* [More…](https://github.com/fregante/webext-fun) ⭐ 141 | 🐛 1 | 📅 2025-03-16
+* [More…](https://github.com/fregante/webext-fun) ⭐ 142 | 🐛 1 | 📅 2025-03-16
 * [redux-webext](https://github.com/ivantsov/redux-webext) ⭐ 108 | 🐛 13 | 🌐 JavaScript | 📅 2022-06-23 - Uses Redux for managing the state of your WebExtension.
 * [webext-dynamic-content-scripts](https://github.com/fregante/webext-dynamic-content-scripts) ⭐ 91 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-30 - Automatically inject your `content_scripts` on custom domains.
 * [webext-storage-cache](https://github.com/fregante/webext-storage-cache) ⭐ 83 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-05 - Map-like promised cache storage with expiration.
@@ -52,15 +52,15 @@ Code meant become part of the extension.
 
 Apps that help you manage your extensions.
 
-* [Extension.js](https://github.com/extension-js/extension.js) ⭐ 5,173 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-28 - Zero-config CLI to develop, build and package extensions for Chrome, Edge, Firefox and Safari.
-* [mozilla/web-ext](https://github.com/mozilla/web-ext) ⭐ 3,140 | 🐛 223 | 🌐 JavaScript | 📅 2026-09-29 - Command line tool to help build, run, and test WebExtensions.
+* [Extension.js](https://github.com/extension-js/extension.js) ⭐ 5,174 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-30 - Zero-config CLI to develop, build and package extensions for Chrome, Edge, Firefox and Safari.
+* [mozilla/web-ext](https://github.com/mozilla/web-ext) ⭐ 3,141 | 🐛 224 | 🌐 JavaScript | 📅 2026-09-30 - Command line tool to help build, run, and test WebExtensions.
 * [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) ⭐ 1,717 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-01 - WebExtension to view source code of extensions directly on the store.
 * [Chrome Webstore Upload](https://github.com/fregante/chrome-webstore-upload-cli) ⭐ 505 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-28 - Upload the extension to the Chrome Web Store via cli (or on GitHub Actions, automatically).
 * [webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) ⭐ 497 | 🐛 90 | 🌐 TypeScript | 📅 2023-01-04 - A Webpack plugin to automatically reload browser extensions during development.
 * [@wext/shipit](https://github.com/LinusU/wext-shipit) ⭐ 134 | 🐛 9 | 🌐 JavaScript | 📅 2021-06-12 - Tool to automatically publish to Chrome Web Store, Mozilla Addons and Opera Addons.
 * [chrome-ext-downloader](https://github.com/jiripospisil/chrome-ext-downloader) ⚠️ Archived - Download any extension on Chrome Web Store to see how they do it.
 * [webpack-target-webextension](https://github.com/awesome-webextension/webpack-target-webextension) ⭐ 48 | 🐛 4 | 🌐 JavaScript | 📅 2025-04-14 - Adds code-splitting support to WebExtensions build with Webpack.
-* [chromepet](https://github.com/ZenHubIO/chromepet) ⭐ 33 | 🐛 5 | 🌐 JavaScript | 📅 2014-11-09 - Get notified when your new version has been published.
+* [chromepet](https://github.com/ZenHubIO/chromepet) ⭐ 34 | 🐛 5 | 🌐 JavaScript | 📅 2014-11-09 - Get notified when your new version has been published.
 * [chrome-store-api](https://github.com/acvetkov/chrome-store-api) ⭐ 31 | 🐛 2 | 🌐 JavaScript | 📅 2021-02-12 - Chrome Web Store API wrapper.
 * [wext-manifest-loader](https://github.com/abhijithvijayan/wext-manifest-loader) ⭐ 28 | 🐛 2 | 🌐 TypeScript | 📅 2026-01-04 - Webpack loader that lets you specify `manifest.json` properties to appear only in specific browsers.
 * [webextension-manifest-loader](https://github.com/jsmnbom/webextension-manifest-loader) ⚠️ Archived - Webpack loader that loads browser tailored manifest.json. It also imports all importable properties, allowing you to have 'manifest.json' as your only webpack entry point.
@@ -68,7 +68,7 @@ Apps that help you manage your extensions.
 ## Testing
 
 * [sinon-chrome](https://github.com/acvetkov/sinon-chrome) ⭐ 441 | 🐛 37 | 🌐 JavaScript | 📅 2021-07-12 - Mocks the Chrome Extensions API for testing.
-* [addons-linter](https://github.com/mozilla/addons-linter) ⭐ 363 | 🐛 61 | 🌐 JavaScript | 📅 2026-09-29 - Validate an extension against Mozilla's guidelines.
+* [addons-linter](https://github.com/mozilla/addons-linter) ⭐ 363 | 🐛 63 | 🌐 JavaScript | 📅 2026-09-30 - Validate an extension against Mozilla's guidelines.
 * [webextensions-jsdom](https://github.com/stoically/webextensions-jsdom) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2022-06-30 - Load popup, sidebar and background with JSDOM based on the manifest.json.
 * [webextensions-api-fake](https://github.com/stoically/webextensions-api-fake) ⭐ 18 | 🐛 2 | 🌐 TypeScript | 📅 2020-06-08 - In-memory WebExtensions API Fake Implementation (includes TypeScript types).
 * [webextensions-api-mock](https://github.com/stoically/webextensions-api-mock) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2020-01-29 - WebExtensions API as sinon stubs (includes TypeScript types).
@@ -76,7 +76,7 @@ Apps that help you manage your extensions.
 
 ## Boilerplates
 
-* [WXT](https://github.com/wxt-dev/wxt) ⭐ 10,555 | 🐛 222 | 🌐 TypeScript | 📅 2026-09-29 - Next-gen framework for developing web extensions.
+* [WXT](https://github.com/wxt-dev/wxt) ⭐ 10,556 | 🐛 225 | 🌐 TypeScript | 📅 2026-09-29 - Next-gen framework for developing web extensions.
 * [browser-extension-template](https://github.com/fregante/browser-extension-template) ⭐ 845 | 🐛 4 | 🌐 JavaScript | 📅 2025-02-03 - Barebones boilerplate with parcel, options handler and auto-publishing.
 * [generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension) ⭐ 319 | 🐛 13 | 🌐 JavaScript | 📅 2023-03-01 - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 * [create-webextension](https://github.com/rpl/create-webextension) ⭐ 25 | 🐛 11 | 🌐 JavaScript | 📅 2018-11-15 - Yarn WebExtension generator.
@@ -85,10 +85,10 @@ Apps that help you manage your extensions.
 
 These are simple and modern WebExtensions repositories that could help you figure out where pieces go, including automatic deployment via GitHub Actions.
 
-* [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) ⭐ 4,479 | 🐛 32 | 🌐 JavaScript | 📅 2026-09-28 - Various example extensions curated for the MDN documentation.
+* [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) ⭐ 4,477 | 🐛 32 | 🌐 JavaScript | 📅 2026-09-28 - Various example extensions curated for the MDN documentation.
 * [npmhub](https://github.com/npmhub/npmhub) ⭐ 834 | 🐛 5 | 🌐 Svelte | 📅 2024-08-13
 * [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github) ⚠️ Archived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._

@@ -40,7 +40,7 @@
             "open_issues": 12,
             "owner": "Glench",
             "repo": "ExtPay",
-            "stars": 771,
+            "stars": 772,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -96,7 +96,7 @@
             "open_issues": 1,
             "owner": "fregante",
             "repo": "webext-fun",
-            "stars": 141,
+            "stars": 142,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -221,11 +221,11 @@
             "id": 306484159,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T20:47:41Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-30T10:17:13Z",
+            "open_issues": 10,
             "owner": "extension-js",
             "repo": "extension.js",
-            "stars": 5173,
+            "stars": 5174,
             "topics": [
               "browser-extension",
               "build-tool",
@@ -263,11 +263,11 @@
             "id": 50859563,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-29T09:19:11Z",
-            "open_issues": 223,
+            "last_commit": "2026-09-30T11:26:27Z",
+            "open_issues": 224,
             "owner": "mozilla",
             "repo": "web-ext",
-            "stars": 3140,
+            "stars": 3141,
             "topics": [
               "add-ons",
               "browser-extension",
@@ -428,7 +428,7 @@
             "open_issues": 5,
             "owner": "ZenHubIO",
             "repo": "chromepet",
-            "stars": 33,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -548,8 +548,8 @@
             "id": 42436885,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-29T10:54:29Z",
-            "open_issues": 61,
+            "last_commit": "2026-09-30T11:23:49Z",
+            "open_issues": 63,
             "owner": "mozilla",
             "repo": "addons-linter",
             "stars": 363,
@@ -666,10 +666,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-29T05:08:51Z",
-            "open_issues": 222,
+            "open_issues": 225,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10555,
+            "stars": 10556,
             "topics": [
               "build-tool",
               "chrome-extensions",
@@ -781,7 +781,7 @@
             "open_issues": 32,
             "owner": "mdn",
             "repo": "webextensions-examples",
-            "stars": 4479,
+            "stars": 4477,
             "topics": [
               "browser",
               "mdn",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T14:49:30.903Z",
+    "last_updated": "2026-09-30T14:53:15.457Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
@@ -865,7 +865,7 @@
       "open_issues": 1,
       "owner": "fregante",
       "repo": "Awesome-WebExtensions",
-      "stars": 1512,
+      "stars": 1514,
       "topics": [
         "awesome",
         "awesome-list",
