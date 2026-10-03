@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "mozilla",
             "repo": "webextension-polyfill",
-            "stars": 3067,
+            "stars": 3066,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -83,7 +83,7 @@
         {
           "node_type": "item",
           "title": "More…",
-          "description": null,
+          "description": "fregante/webext-fun",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -221,8 +221,8 @@
             "id": 306484159,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T14:31:05Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-03T01:02:43Z",
+            "open_issues": 6,
             "owner": "extension-js",
             "repo": "extension.js",
             "stars": 5175,
@@ -294,7 +294,7 @@
             "open_issues": 19,
             "owner": "Rob--W",
             "repo": "crxviewer",
-            "stars": 1718,
+            "stars": 1717,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -665,7 +665,7 @@
             "id": 658389713,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T10:52:34Z",
+            "last_commit": "2026-10-02T22:19:40Z",
             "open_issues": 225,
             "owner": "wxt-dev",
             "repo": "wxt",
@@ -781,7 +781,7 @@
             "open_issues": 33,
             "owner": "mdn",
             "repo": "webextensions-examples",
-            "stars": 4477,
+            "stars": 4476,
             "topics": [
               "browser",
               "mdn",
@@ -794,7 +794,7 @@
         {
           "node_type": "item",
           "title": "npmhub",
-          "description": null,
+          "description": "npmhub/npmhub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -807,7 +807,7 @@
             "open_issues": 5,
             "owner": "npmhub",
             "repo": "npmhub",
-            "stars": 834,
+            "stars": 835,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -823,7 +823,7 @@
         {
           "node_type": "item",
           "title": "Hide Files on GitHub",
-          "description": null,
+          "description": "sindresorhus/hide-files-on-github",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:42:13.331Z",
+    "last_updated": "2026-10-03T04:26:38.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
@@ -865,7 +865,7 @@
       "open_issues": 1,
       "owner": "fregante",
       "repo": "Awesome-WebExtensions",
-      "stars": 1514,
+      "stars": 1516,
       "topics": [
         "awesome",
         "awesome-list",

@@ -52,9 +52,9 @@ Code meant become part of the extension.
 
 Apps that help you manage your extensions.
 
-* [Extension.js](https://github.com/extension-js/extension.js) ⭐ 5,175 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-02 - Zero-config CLI to develop, build and package extensions for Chrome, Edge, Firefox and Safari.
+* [Extension.js](https://github.com/extension-js/extension.js) ⭐ 5,175 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-03 - Zero-config CLI to develop, build and package extensions for Chrome, Edge, Firefox and Safari.
 * [mozilla/web-ext](https://github.com/mozilla/web-ext) ⭐ 3,142 | 🐛 225 | 🌐 JavaScript | 📅 2026-09-30 - Command line tool to help build, run, and test WebExtensions.
-* [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) ⭐ 1,718 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-01 - WebExtension to view source code of extensions directly on the store.
+* [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) ⭐ 1,717 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-01 - WebExtension to view source code of extensions directly on the store.
 * [Chrome Webstore Upload](https://github.com/fregante/chrome-webstore-upload-cli) ⭐ 505 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-28 - Upload the extension to the Chrome Web Store via cli (or on GitHub Actions, automatically).
 * [webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) ⭐ 497 | 🐛 90 | 🌐 TypeScript | 📅 2023-01-04 - A Webpack plugin to automatically reload browser extensions during development.
 * [@wext/shipit](https://github.com/LinusU/wext-shipit) ⭐ 134 | 🐛 9 | 🌐 JavaScript | 📅 2021-06-12 - Tool to automatically publish to Chrome Web Store, Mozilla Addons and Opera Addons.
@@ -85,10 +85,10 @@ Apps that help you manage your extensions.
 
 These are simple and modern WebExtensions repositories that could help you figure out where pieces go, including automatic deployment via GitHub Actions.
 
-* [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) ⭐ 4,477 | 🐛 33 | 🌐 JavaScript | 📅 2026-09-30 - Various example extensions curated for the MDN documentation.
-* [npmhub](https://github.com/npmhub/npmhub) ⭐ 834 | 🐛 5 | 🌐 Svelte | 📅 2024-08-13
+* [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) ⭐ 4,476 | 🐛 33 | 🌐 JavaScript | 📅 2026-09-30 - Various example extensions curated for the MDN documentation.
+* [npmhub](https://github.com/npmhub/npmhub) ⭐ 835 | 🐛 5 | 🌐 Svelte | 📅 2024-08-13
 * [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github) ⚠️ Archived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
