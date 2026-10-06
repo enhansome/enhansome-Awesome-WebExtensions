@@ -52,7 +52,7 @@ Code meant become part of the extension.
 
 Apps that help you manage your extensions.
 
-* [Extension.js](https://github.com/extension-js/extension.js) ⭐ 5,178 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-06 - Zero-config CLI to develop, build and package extensions for Chrome, Edge, Firefox and Safari.
+* [Extension.js](https://github.com/extension-js/extension.js) ⭐ 5,180 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-06 - Zero-config CLI to develop, build and package extensions for Chrome, Edge, Firefox and Safari.
 * [mozilla/web-ext](https://github.com/mozilla/web-ext) ⭐ 3,145 | 🐛 221 | 🌐 JavaScript | 📅 2026-10-06 - Command line tool to help build, run, and test WebExtensions.
 * [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) ⭐ 1,717 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-01 - WebExtension to view source code of extensions directly on the store.
 * [Chrome Webstore Upload](https://github.com/fregante/chrome-webstore-upload-cli) ⭐ 506 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-04 - Upload the extension to the Chrome Web Store via cli (or on GitHub Actions, automatically).
@@ -76,7 +76,7 @@ Apps that help you manage your extensions.
 
 ## Boilerplates
 
-* [WXT](https://github.com/wxt-dev/wxt) ⭐ 10,574 | 🐛 203 | 🌐 TypeScript | 📅 2026-10-06 - Next-gen framework for developing web extensions.
+* [WXT](https://github.com/wxt-dev/wxt) ⭐ 10,576 | 🐛 203 | 🌐 TypeScript | 📅 2026-10-06 - Next-gen framework for developing web extensions.
 * [browser-extension-template](https://github.com/fregante/browser-extension-template) ⭐ 845 | 🐛 4 | 🌐 JavaScript | 📅 2025-02-03 - Barebones boilerplate with parcel, options handler and auto-publishing.
 * [generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension) ⭐ 319 | 🐛 13 | 🌐 JavaScript | 📅 2023-03-01 - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 * [create-webextension](https://github.com/rpl/create-webextension) ⭐ 25 | 🐛 11 | 🌐 JavaScript | 📅 2018-11-15 - Yarn WebExtension generator.
@@ -86,7 +86,7 @@ Apps that help you manage your extensions.
 These are simple and modern WebExtensions repositories that could help you figure out where pieces go, including automatic deployment via GitHub Actions.
 
 * [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) ⭐ 4,476 | 🐛 31 | 🌐 JavaScript | 📅 2026-10-05 - Various example extensions curated for the MDN documentation.
-* [npmhub](https://github.com/npmhub/npmhub) ⭐ 835 | 🐛 5 | 🌐 Svelte | 📅 2024-08-13
+* [npmhub](https://github.com/npmhub/npmhub) ⭐ 834 | 🐛 5 | 🌐 Svelte | 📅 2024-08-13
 * [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github) ⚠️ Archived
 
 ***
