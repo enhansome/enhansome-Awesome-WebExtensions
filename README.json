@@ -221,7 +221,7 @@
             "id": 306484159,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T18:45:00Z",
+            "last_commit": "2026-10-10T11:07:57Z",
             "open_issues": 5,
             "owner": "extension-js",
             "repo": "extension.js",
@@ -291,10 +291,10 @@
             "language": "JavaScript",
             "license": "MPL-2.0",
             "last_commit": "2026-09-01T21:19:46Z",
-            "open_issues": 20,
+            "open_issues": 22,
             "owner": "Rob--W",
             "repo": "crxviewer",
-            "stars": 1719,
+            "stars": 1720,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -315,7 +315,7 @@
             "open_issues": 0,
             "owner": "fregante",
             "repo": "chrome-webstore-upload-cli",
-            "stars": 507,
+            "stars": 506,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -665,11 +665,11 @@
             "id": 658389713,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T13:06:44Z",
-            "open_issues": 204,
+            "last_commit": "2026-10-10T09:46:42Z",
+            "open_issues": 202,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10588,
+            "stars": 10592,
             "topics": [
               "build-tool",
               "chrome-extensions",
@@ -781,7 +781,7 @@
             "open_issues": 31,
             "owner": "mdn",
             "repo": "webextensions-examples",
-            "stars": 4477,
+            "stars": 4476,
             "topics": [
               "browser",
               "mdn",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T15:14:35.387Z",
+    "last_updated": "2026-10-10T14:26:22.312Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
