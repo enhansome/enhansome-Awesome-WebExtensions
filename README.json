@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "mozilla",
             "repo": "webextension-polyfill",
-            "stars": 3068,
+            "stars": 3067,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -225,7 +225,7 @@
             "open_issues": 5,
             "owner": "extension-js",
             "repo": "extension.js",
-            "stars": 5184,
+            "stars": 5188,
             "topics": [
               "browser-extension",
               "build-tool",
@@ -263,8 +263,8 @@
             "id": 50859563,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-09T13:58:57Z",
-            "open_issues": 220,
+            "last_commit": "2026-10-10T15:30:40Z",
+            "open_issues": 219,
             "owner": "mozilla",
             "repo": "web-ext",
             "stars": 3146,
@@ -665,11 +665,11 @@
             "id": 658389713,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T09:46:42Z",
-            "open_issues": 202,
+            "last_commit": "2026-10-11T13:59:46Z",
+            "open_issues": 201,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10592,
+            "stars": 10596,
             "topics": [
               "build-tool",
               "chrome-extensions",
@@ -781,7 +781,7 @@
             "open_issues": 31,
             "owner": "mdn",
             "repo": "webextensions-examples",
-            "stars": 4476,
+            "stars": 4475,
             "topics": [
               "browser",
               "mdn",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T14:26:22.312Z",
+    "last_updated": "2026-10-11T14:53:12.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
