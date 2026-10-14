@@ -40,7 +40,7 @@
             "open_issues": 12,
             "owner": "Glench",
             "repo": "ExtPay",
-            "stars": 777,
+            "stars": 778,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -267,7 +267,7 @@
             "open_issues": 222,
             "owner": "mozilla",
             "repo": "web-ext",
-            "stars": 3147,
+            "stars": 3146,
             "topics": [
               "add-ons",
               "browser-extension",
@@ -548,8 +548,8 @@
             "id": 42436885,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-13T08:11:56Z",
-            "open_issues": 61,
+            "last_commit": "2026-10-14T12:01:27Z",
+            "open_issues": 60,
             "owner": "mozilla",
             "repo": "addons-linter",
             "stars": 363,
@@ -665,11 +665,11 @@
             "id": 658389713,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T04:39:13Z",
+            "last_commit": "2026-10-13T18:23:50Z",
             "open_issues": 199,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10602,
+            "stars": 10609,
             "topics": [
               "build-tool",
               "chrome-extensions",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T15:54:08.731Z",
+    "last_updated": "2026-10-14T13:38:38.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
