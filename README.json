@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "mozilla",
             "repo": "webextension-polyfill",
-            "stars": 3067,
+            "stars": 3066,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -264,7 +264,7 @@
             "language": "JavaScript",
             "license": "MPL-2.0",
             "last_commit": "2026-10-15T12:09:58Z",
-            "open_issues": 217,
+            "open_issues": 218,
             "owner": "mozilla",
             "repo": "web-ext",
             "stars": 3147,
@@ -294,7 +294,7 @@
             "open_issues": 22,
             "owner": "Rob--W",
             "repo": "crxviewer",
-            "stars": 1721,
+            "stars": 1722,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -665,11 +665,11 @@
             "id": 658389713,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T05:50:21Z",
-            "open_issues": 200,
+            "last_commit": "2026-10-17T06:16:24Z",
+            "open_issues": 202,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10617,
+            "stars": 10621,
             "topics": [
               "build-tool",
               "chrome-extensions",
@@ -781,7 +781,7 @@
             "open_issues": 28,
             "owner": "mdn",
             "repo": "webextensions-examples",
-            "stars": 4471,
+            "stars": 4470,
             "topics": [
               "browser",
               "mdn",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T13:12:12.895Z",
+    "last_updated": "2026-10-17T12:08:58.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
