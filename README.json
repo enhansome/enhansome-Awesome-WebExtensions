@@ -40,7 +40,7 @@
             "open_issues": 12,
             "owner": "Glench",
             "repo": "ExtPay",
-            "stars": 781,
+            "stars": 782,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -221,8 +221,8 @@
             "id": 306484159,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T13:07:18Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-18T12:28:22Z",
+            "open_issues": 8,
             "owner": "extension-js",
             "repo": "extension.js",
             "stars": 5191,
@@ -294,7 +294,7 @@
             "open_issues": 22,
             "owner": "Rob--W",
             "repo": "crxviewer",
-            "stars": 1722,
+            "stars": 1723,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -665,11 +665,11 @@
             "id": 658389713,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T06:16:24Z",
-            "open_issues": 202,
+            "last_commit": "2026-10-18T11:59:53Z",
+            "open_issues": 201,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10621,
+            "stars": 10622,
             "topics": [
               "build-tool",
               "chrome-extensions",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T12:08:58.701Z",
+    "last_updated": "2026-10-18T12:34:48.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
