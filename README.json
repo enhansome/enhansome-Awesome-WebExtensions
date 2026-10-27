@@ -225,7 +225,7 @@
             "open_issues": 5,
             "owner": "extension-js",
             "repo": "extension.js",
-            "stars": 5199,
+            "stars": 5200,
             "topics": [
               "browser-extension",
               "build-tool",
@@ -263,11 +263,11 @@
             "id": 50859563,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-26T07:23:41Z",
-            "open_issues": 225,
+            "last_commit": "2026-10-27T07:23:30Z",
+            "open_issues": 226,
             "owner": "mozilla",
             "repo": "web-ext",
-            "stars": 3150,
+            "stars": 3151,
             "topics": [
               "add-ons",
               "browser-extension",
@@ -665,11 +665,11 @@
             "id": 658389713,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T09:52:04Z",
+            "last_commit": "2026-10-27T11:32:06Z",
             "open_issues": 189,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10658,
+            "stars": 10661,
             "topics": [
               "build-tool",
               "chrome-extensions",
@@ -781,7 +781,7 @@
             "open_issues": 27,
             "owner": "mdn",
             "repo": "webextensions-examples",
-            "stars": 4474,
+            "stars": 4475,
             "topics": [
               "browser",
               "mdn",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T15:07:50.169Z",
+    "last_updated": "2026-10-27T14:22:54.570Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
@@ -865,7 +865,7 @@
       "open_issues": 1,
       "owner": "fregante",
       "repo": "Awesome-WebExtensions",
-      "stars": 1519,
+      "stars": 1520,
       "topics": [
         "awesome",
         "awesome-list",
