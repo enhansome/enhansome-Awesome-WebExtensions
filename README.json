@@ -168,8 +168,8 @@
             "id": 190705441,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T07:00:07Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-28T10:01:26Z",
+            "open_issues": 3,
             "owner": "fregante",
             "repo": "webext-storage-cache",
             "stars": 83,
@@ -221,11 +221,11 @@
             "id": 306484159,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T12:20:39Z",
+            "last_commit": "2026-10-28T12:27:34Z",
             "open_issues": 5,
             "owner": "extension-js",
             "repo": "extension.js",
-            "stars": 5200,
+            "stars": 5202,
             "topics": [
               "browser-extension",
               "build-tool",
@@ -665,11 +665,11 @@
             "id": 658389713,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T11:32:06Z",
-            "open_issues": 189,
+            "last_commit": "2026-10-28T11:24:38Z",
+            "open_issues": 192,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10661,
+            "stars": 10669,
             "topics": [
               "build-tool",
               "chrome-extensions",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T14:22:54.570Z",
+    "last_updated": "2026-10-28T15:03:31.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
