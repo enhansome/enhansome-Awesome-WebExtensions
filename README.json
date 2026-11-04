@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "mozilla",
             "repo": "webextension-polyfill",
-            "stars": 3067,
+            "stars": 3066,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -40,7 +40,7 @@
             "open_issues": 12,
             "owner": "Glench",
             "repo": "ExtPay",
-            "stars": 786,
+            "stars": 787,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -221,11 +221,11 @@
             "id": 306484159,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T12:12:24Z",
+            "last_commit": "2026-11-04T10:17:37Z",
             "open_issues": 7,
             "owner": "extension-js",
             "repo": "extension.js",
-            "stars": 5203,
+            "stars": 5204,
             "topics": [
               "browser-extension",
               "build-tool",
@@ -294,7 +294,7 @@
             "open_issues": 22,
             "owner": "Rob--W",
             "repo": "crxviewer",
-            "stars": 1722,
+            "stars": 1724,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -669,7 +669,7 @@
             "open_issues": 187,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10691,
+            "stars": 10697,
             "topics": [
               "build-tool",
               "chrome-extensions",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T16:09:03.330Z",
+    "last_updated": "2026-11-04T16:13:06.019Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
