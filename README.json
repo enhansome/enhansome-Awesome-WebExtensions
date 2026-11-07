@@ -40,7 +40,7 @@
             "open_issues": 12,
             "owner": "Glench",
             "repo": "ExtPay",
-            "stars": 787,
+            "stars": 788,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -221,11 +221,11 @@
             "id": 306484159,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-06T13:22:40Z",
+            "last_commit": "2026-11-07T01:23:35Z",
             "open_issues": 6,
             "owner": "extension-js",
             "repo": "extension.js",
-            "stars": 5206,
+            "stars": 5207,
             "topics": [
               "browser-extension",
               "build-tool",
@@ -294,7 +294,7 @@
             "open_issues": 22,
             "owner": "Rob--W",
             "repo": "crxviewer",
-            "stars": 1724,
+            "stars": 1725,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -665,11 +665,11 @@
             "id": 658389713,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-06T10:10:25Z",
-            "open_issues": 187,
+            "last_commit": "2026-11-06T21:17:25Z",
+            "open_issues": 190,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10707,
+            "stars": 10709,
             "topics": [
               "build-tool",
               "chrome-extensions",
@@ -781,7 +781,7 @@
             "open_issues": 28,
             "owner": "mdn",
             "repo": "webextensions-examples",
-            "stars": 4473,
+            "stars": 4475,
             "topics": [
               "browser",
               "mdn",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T15:52:43.800Z",
+    "last_updated": "2026-11-07T14:51:56.038Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
