@@ -222,10 +222,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-07T01:23:35Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "extension-js",
             "repo": "extension.js",
-            "stars": 5207,
+            "stars": 5206,
             "topics": [
               "browser-extension",
               "build-tool",
@@ -666,7 +666,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-06T21:17:25Z",
-            "open_issues": 190,
+            "open_issues": 192,
             "owner": "wxt-dev",
             "repo": "wxt",
             "stars": 10709,
@@ -781,7 +781,7 @@
             "open_issues": 28,
             "owner": "mdn",
             "repo": "webextensions-examples",
-            "stars": 4475,
+            "stars": 4476,
             "topics": [
               "browser",
               "mdn",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T14:51:56.038Z",
+    "last_updated": "2026-11-08T15:05:38.229Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
