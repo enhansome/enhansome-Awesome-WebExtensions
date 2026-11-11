@@ -221,11 +221,11 @@
             "id": 306484159,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-07T01:23:35Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-11T16:01:05Z",
+            "open_issues": 12,
             "owner": "extension-js",
             "repo": "extension.js",
-            "stars": 5209,
+            "stars": 5208,
             "topics": [
               "browser-extension",
               "build-tool",
@@ -264,10 +264,10 @@
             "language": "JavaScript",
             "license": "MPL-2.0",
             "last_commit": "2026-11-10T07:23:07Z",
-            "open_issues": 230,
+            "open_issues": 231,
             "owner": "mozilla",
             "repo": "web-ext",
-            "stars": 3153,
+            "stars": 3152,
             "topics": [
               "add-ons",
               "browser-extension",
@@ -294,7 +294,7 @@
             "open_issues": 22,
             "owner": "Rob--W",
             "repo": "crxviewer",
-            "stars": 1726,
+            "stars": 1727,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -405,7 +405,7 @@
             "open_issues": 4,
             "owner": "awesome-webextension",
             "repo": "webpack-target-webextension",
-            "stars": 47,
+            "stars": 46,
             "topics": [
               "webextension"
             ]
@@ -552,7 +552,7 @@
             "open_issues": 62,
             "owner": "mozilla",
             "repo": "addons-linter",
-            "stars": 367,
+            "stars": 366,
             "topics": [
               "cli",
               "web-extensions"
@@ -665,11 +665,11 @@
             "id": 658389713,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T14:52:19Z",
-            "open_issues": 195,
+            "last_commit": "2026-11-11T15:02:14Z",
+            "open_issues": 189,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10717,
+            "stars": 10720,
             "topics": [
               "build-tool",
               "chrome-extensions",
@@ -696,7 +696,7 @@
             "open_issues": 4,
             "owner": "fregante",
             "repo": "browser-extension-template",
-            "stars": 845,
+            "stars": 844,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -781,7 +781,7 @@
             "open_issues": 29,
             "owner": "mdn",
             "repo": "webextensions-examples",
-            "stars": 4477,
+            "stars": 4476,
             "topics": [
               "browser",
               "mdn",
@@ -807,7 +807,7 @@
             "open_issues": 6,
             "owner": "npmhub",
             "repo": "npmhub",
-            "stars": 837,
+            "stars": 836,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T16:23:17.853Z",
+    "last_updated": "2026-11-11T16:05:52.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
@@ -865,7 +865,7 @@
       "open_issues": 1,
       "owner": "fregante",
       "repo": "Awesome-WebExtensions",
-      "stars": 1522,
+      "stars": 1521,
       "topics": [
         "awesome",
         "awesome-list",
