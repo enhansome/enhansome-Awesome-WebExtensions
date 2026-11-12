@@ -40,7 +40,7 @@
             "open_issues": 12,
             "owner": "Glench",
             "repo": "ExtPay",
-            "stars": 789,
+            "stars": 788,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -221,11 +221,11 @@
             "id": 306484159,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T16:01:05Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-12T15:18:18Z",
+            "open_issues": 5,
             "owner": "extension-js",
             "repo": "extension.js",
-            "stars": 5208,
+            "stars": 5210,
             "topics": [
               "browser-extension",
               "build-tool",
@@ -665,11 +665,11 @@
             "id": 658389713,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T15:02:14Z",
+            "last_commit": "2026-11-12T11:31:57Z",
             "open_issues": 189,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10720,
+            "stars": 10727,
             "topics": [
               "build-tool",
               "chrome-extensions",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T16:05:52.523Z",
+    "last_updated": "2026-11-12T16:45:52.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
@@ -865,7 +865,7 @@
       "open_issues": 1,
       "owner": "fregante",
       "repo": "Awesome-WebExtensions",
-      "stars": 1521,
+      "stars": 1522,
       "topics": [
         "awesome",
         "awesome-list",
