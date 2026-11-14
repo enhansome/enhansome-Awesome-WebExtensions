@@ -221,11 +221,11 @@
             "id": 306484159,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T15:59:25Z",
+            "last_commit": "2026-11-14T11:51:15Z",
             "open_issues": 5,
             "owner": "extension-js",
             "repo": "extension.js",
-            "stars": 5209,
+            "stars": 5211,
             "topics": [
               "browser-extension",
               "build-tool",
@@ -552,7 +552,7 @@
             "open_issues": 63,
             "owner": "mozilla",
             "repo": "addons-linter",
-            "stars": 366,
+            "stars": 367,
             "topics": [
               "cli",
               "web-extensions"
@@ -573,7 +573,7 @@
             "language": "JavaScript",
             "license": "MPL-2.0",
             "last_commit": "2022-06-30T22:15:33Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "stoically",
             "repo": "webextensions-jsdom",
             "stars": 20,
@@ -665,11 +665,11 @@
             "id": 658389713,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-12T11:31:57Z",
-            "open_issues": 185,
+            "last_commit": "2026-11-14T14:41:26Z",
+            "open_issues": 189,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10729,
+            "stars": 10731,
             "topics": [
               "build-tool",
               "chrome-extensions",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T16:14:16.389Z",
+    "last_updated": "2026-11-14T14:59:05.489Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
