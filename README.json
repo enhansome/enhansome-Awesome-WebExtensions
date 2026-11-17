@@ -31,12 +31,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "The JavaScript library for ExtensionPay.com — payments for your browser extensions, no server needed.",
+            "description": "The JavaScript library for ExtensionPay.com — monetize browser extensions with payments.",
             "homepage": "https://extensionpay.com",
             "id": 327994237,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T16:51:08Z",
+            "last_commit": "2026-11-16T19:43:03Z",
             "open_issues": 12,
             "owner": "Glench",
             "repo": "ExtPay",
@@ -221,8 +221,8 @@
             "id": 306484159,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T17:04:13Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-17T17:33:21Z",
+            "open_issues": 21,
             "owner": "extension-js",
             "repo": "extension.js",
             "stars": 5213,
@@ -263,7 +263,7 @@
             "id": 50859563,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-16T07:27:30Z",
+            "last_commit": "2026-11-17T07:23:16Z",
             "open_issues": 233,
             "owner": "mozilla",
             "repo": "web-ext",
@@ -552,7 +552,7 @@
             "open_issues": 61,
             "owner": "mozilla",
             "repo": "addons-linter",
-            "stars": 367,
+            "stars": 368,
             "topics": [
               "cli",
               "web-extensions"
@@ -669,7 +669,7 @@
             "open_issues": 190,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10738,
+            "stars": 10739,
             "topics": [
               "build-tool",
               "chrome-extensions",
@@ -777,11 +777,11 @@
             "id": 40733543,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-16T13:38:51Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-17T11:23:13Z",
+            "open_issues": 30,
             "owner": "mdn",
             "repo": "webextensions-examples",
-            "stars": 4477,
+            "stars": 4478,
             "topics": [
               "browser",
               "mdn",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T18:25:10.948Z",
+    "last_updated": "2026-11-17T17:35:05.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
