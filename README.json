@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "mozilla",
             "repo": "webextension-polyfill",
-            "stars": 3066,
+            "stars": 3067,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -221,8 +221,8 @@
             "id": 306484159,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T17:00:48Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-19T17:17:42Z",
+            "open_issues": 8,
             "owner": "extension-js",
             "repo": "extension.js",
             "stars": 5216,
@@ -263,8 +263,8 @@
             "id": 50859563,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-17T07:23:16Z",
-            "open_issues": 233,
+            "last_commit": "2026-11-19T16:54:29Z",
+            "open_issues": 234,
             "owner": "mozilla",
             "repo": "web-ext",
             "stars": 3152,
@@ -294,7 +294,7 @@
             "open_issues": 22,
             "owner": "Rob--W",
             "repo": "crxviewer",
-            "stars": 1728,
+            "stars": 1729,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -548,8 +548,8 @@
             "id": 42436885,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-16T13:49:42Z",
-            "open_issues": 61,
+            "last_commit": "2026-11-19T14:50:04Z",
+            "open_issues": 60,
             "owner": "mozilla",
             "repo": "addons-linter",
             "stars": 368,
@@ -665,11 +665,11 @@
             "id": 658389713,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T07:44:45Z",
+            "last_commit": "2026-11-19T05:29:37Z",
             "open_issues": 195,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10752,
+            "stars": 10757,
             "topics": [
               "build-tool",
               "chrome-extensions",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T17:11:50.393Z",
+    "last_updated": "2026-11-19T17:19:11.687Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
