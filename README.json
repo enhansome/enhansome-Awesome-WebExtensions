@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "mozilla",
             "repo": "webextension-polyfill",
-            "stars": 3067,
+            "stars": 3066,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -40,7 +40,7 @@
             "open_issues": 12,
             "owner": "Glench",
             "repo": "ExtPay",
-            "stars": 789,
+            "stars": 788,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -172,7 +172,7 @@
             "open_issues": 3,
             "owner": "fregante",
             "repo": "webext-storage-cache",
-            "stars": 83,
+            "stars": 82,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -221,8 +221,8 @@
             "id": 306484159,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T17:17:42Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-20T16:51:31Z",
+            "open_issues": 13,
             "owner": "extension-js",
             "repo": "extension.js",
             "stars": 5216,
@@ -263,11 +263,11 @@
             "id": 50859563,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-19T16:54:29Z",
-            "open_issues": 234,
+            "last_commit": "2026-11-20T13:10:42Z",
+            "open_issues": 228,
             "owner": "mozilla",
             "repo": "web-ext",
-            "stars": 3152,
+            "stars": 3151,
             "topics": [
               "add-ons",
               "browser-extension",
@@ -315,7 +315,7 @@
             "open_issues": 0,
             "owner": "fregante",
             "repo": "chrome-webstore-upload-cli",
-            "stars": 513,
+            "stars": 512,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -405,7 +405,7 @@
             "open_issues": 4,
             "owner": "awesome-webextension",
             "repo": "webpack-target-webextension",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "webextension"
             ]
@@ -525,7 +525,7 @@
             "open_issues": 37,
             "owner": "acvetkov",
             "repo": "sinon-chrome",
-            "stars": 442,
+            "stars": 441,
             "topics": [
               "chrome",
               "chrome-api",
@@ -548,11 +548,11 @@
             "id": 42436885,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-19T14:50:04Z",
+            "last_commit": "2026-11-20T13:23:30Z",
             "open_issues": 60,
             "owner": "mozilla",
             "repo": "addons-linter",
-            "stars": 368,
+            "stars": 367,
             "topics": [
               "cli",
               "web-extensions"
@@ -665,7 +665,7 @@
             "id": 658389713,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T05:29:37Z",
+            "last_commit": "2026-11-20T15:44:28Z",
             "open_issues": 195,
             "owner": "wxt-dev",
             "repo": "wxt",
@@ -781,7 +781,7 @@
             "open_issues": 30,
             "owner": "mdn",
             "repo": "webextensions-examples",
-            "stars": 4477,
+            "stars": 4476,
             "topics": [
               "browser",
               "mdn",
@@ -836,7 +836,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "hide-files-on-github",
-            "stars": 321,
+            "stars": 320,
             "topics": [
               "browser-extension",
               "chrome",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T17:19:11.687Z",
+    "last_updated": "2026-11-20T16:55:16.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
@@ -865,7 +865,7 @@
       "open_issues": 1,
       "owner": "fregante",
       "repo": "Awesome-WebExtensions",
-      "stars": 1523,
+      "stars": 1522,
       "topics": [
         "awesome",
         "awesome-list",
