@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "mozilla",
             "repo": "webextension-polyfill",
-            "stars": 3066,
+            "stars": 3067,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -221,11 +221,11 @@
             "id": 306484159,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T14:26:57Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-21T19:23:29Z",
+            "open_issues": 5,
             "owner": "extension-js",
             "repo": "extension.js",
-            "stars": 5219,
+            "stars": 5220,
             "topics": [
               "browser-extension",
               "build-tool",
@@ -665,11 +665,11 @@
             "id": 658389713,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T14:49:19Z",
-            "open_issues": 196,
+            "last_commit": "2026-11-22T15:30:18Z",
+            "open_issues": 195,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10758,
+            "stars": 10761,
             "topics": [
               "build-tool",
               "chrome-extensions",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:05:49.853Z",
+    "last_updated": "2026-11-22T16:12:55.444Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
