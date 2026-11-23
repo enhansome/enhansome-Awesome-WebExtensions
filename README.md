@@ -39,9 +39,9 @@ Follow [@fregante](https://fregante.com) for more webext-related news.
 Code meant become part of the extension.
 
 * [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) ⚠️ Archived - Polyfill to support the standardized promise based API in the `browser` namespace.
-* [ExtPay](https://github.com/Glench/ExtPay) ⭐ 788 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-16 - Take secure payments in extensions without needing to run a server backend.
+* [ExtPay](https://github.com/Glench/ExtPay) ⭐ 790 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-16 - Take secure payments in extensions without needing to run a server backend.
 * [webext-options-sync](https://github.com/fregante/webext-options-sync) ⭐ 157 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-23 - Helps you manage and autosave your extension's options.
-* [More…](https://github.com/fregante/webext-fun) ⭐ 144 | 🐛 1 | 📅 2025-03-16
+* [More…](https://github.com/fregante/webext-fun) ⭐ 143 | 🐛 1 | 📅 2025-03-16
 * [redux-webext](https://github.com/ivantsov/redux-webext) ⭐ 108 | 🐛 13 | 🌐 JavaScript | 📅 2022-06-23 - Uses Redux for managing the state of your WebExtension.
 * [webext-dynamic-content-scripts](https://github.com/fregante/webext-dynamic-content-scripts) ⭐ 91 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-29 - Automatically inject your `content_scripts` on custom domains.
 * [webext-storage-cache](https://github.com/fregante/webext-storage-cache) ⭐ 82 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-28 - Map-like promised cache storage with expiration.
@@ -52,8 +52,8 @@ Code meant become part of the extension.
 
 Apps that help you manage your extensions.
 
-* [Extension.js](https://github.com/extension-js/extension.js) ⭐ 5,220 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-21 - Zero-config CLI to develop, build and package extensions for Chrome, Edge, Firefox and Safari.
-* [mozilla/web-ext](https://github.com/mozilla/web-ext) ⭐ 3,152 | 🐛 227 | 🌐 JavaScript | 📅 2026-11-20 - Command line tool to help build, run, and test WebExtensions.
+* [Extension.js](https://github.com/extension-js/extension.js) ⭐ 5,221 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-23 - Zero-config CLI to develop, build and package extensions for Chrome, Edge, Firefox and Safari.
+* [mozilla/web-ext](https://github.com/mozilla/web-ext) ⭐ 3,152 | 🐛 228 | 🌐 JavaScript | 📅 2026-11-23 - Command line tool to help build, run, and test WebExtensions.
 * [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) ⭐ 1,730 | 🐛 22 | 🌐 JavaScript | 📅 2026-09-01 - WebExtension to view source code of extensions directly on the store.
 * [Chrome Webstore Upload](https://github.com/fregante/chrome-webstore-upload-cli) ⭐ 512 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-04 - Upload the extension to the Chrome Web Store via cli (or on GitHub Actions, automatically).
 * [webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) ⭐ 496 | 🐛 90 | 🌐 TypeScript | 📅 2023-01-04 - A Webpack plugin to automatically reload browser extensions during development.
@@ -76,8 +76,8 @@ Apps that help you manage your extensions.
 
 ## Boilerplates
 
-* [WXT](https://github.com/wxt-dev/wxt) ⭐ 10,761 | 🐛 195 | 🌐 TypeScript | 📅 2026-11-22 - Next-gen framework for developing web extensions.
-* [browser-extension-template](https://github.com/fregante/browser-extension-template) ⭐ 844 | 🐛 4 | 🌐 JavaScript | 📅 2025-02-03 - Barebones boilerplate with parcel, options handler and auto-publishing.
+* [WXT](https://github.com/wxt-dev/wxt) ⭐ 10,768 | 🐛 199 | 🌐 TypeScript | 📅 2026-11-23 - Next-gen framework for developing web extensions.
+* [browser-extension-template](https://github.com/fregante/browser-extension-template) ⭐ 843 | 🐛 4 | 🌐 JavaScript | 📅 2025-02-03 - Barebones boilerplate with parcel, options handler and auto-publishing.
 * [generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension) ⭐ 319 | 🐛 13 | 🌐 JavaScript | 📅 2023-03-01 - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 * [create-webextension](https://github.com/rpl/create-webextension) ⭐ 25 | 🐛 11 | 🌐 JavaScript | 📅 2018-11-15 - Yarn WebExtension generator.
 
@@ -91,4 +91,4 @@ These are simple and modern WebExtensions repositories that could help you figur
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
