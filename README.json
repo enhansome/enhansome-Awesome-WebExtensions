@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "mozilla",
             "repo": "webextension-polyfill",
-            "stars": 3067,
+            "stars": 3068,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -221,11 +221,11 @@
             "id": 306484159,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T18:35:58Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-25T10:14:51Z",
+            "open_issues": 7,
             "owner": "extension-js",
             "repo": "extension.js",
-            "stars": 5222,
+            "stars": 5223,
             "topics": [
               "browser-extension",
               "build-tool",
@@ -263,8 +263,8 @@
             "id": 50859563,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-24T16:47:10Z",
-            "open_issues": 223,
+            "last_commit": "2026-11-25T15:41:33Z",
+            "open_issues": 222,
             "owner": "mozilla",
             "repo": "web-ext",
             "stars": 3152,
@@ -294,7 +294,7 @@
             "open_issues": 22,
             "owner": "Rob--W",
             "repo": "crxviewer",
-            "stars": 1730,
+            "stars": 1731,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -665,11 +665,11 @@
             "id": 658389713,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T06:16:07Z",
-            "open_issues": 198,
+            "last_commit": "2026-11-25T07:50:48Z",
+            "open_issues": 197,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10773,
+            "stars": 10777,
             "topics": [
               "build-tool",
               "chrome-extensions",
@@ -781,7 +781,7 @@
             "open_issues": 30,
             "owner": "mdn",
             "repo": "webextensions-examples",
-            "stars": 4477,
+            "stars": 4478,
             "topics": [
               "browser",
               "mdn",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T19:28:35.807Z",
+    "last_updated": "2026-11-25T18:37:00.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
