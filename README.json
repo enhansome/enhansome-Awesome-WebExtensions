@@ -221,7 +221,7 @@
             "id": 306484159,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T10:14:51Z",
+            "last_commit": "2026-11-27T17:59:47Z",
             "open_issues": 8,
             "owner": "extension-js",
             "repo": "extension.js",
@@ -263,7 +263,7 @@
             "id": 50859563,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-26T10:50:31Z",
+            "last_commit": "2026-11-27T12:58:01Z",
             "open_issues": 218,
             "owner": "mozilla",
             "repo": "web-ext",
@@ -294,7 +294,7 @@
             "open_issues": 22,
             "owner": "Rob--W",
             "repo": "crxviewer",
-            "stars": 1731,
+            "stars": 1732,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:50.919Z"
@@ -548,8 +548,8 @@
             "id": 42436885,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-24T16:28:06Z",
-            "open_issues": 62,
+            "last_commit": "2026-11-27T13:09:20Z",
+            "open_issues": 64,
             "owner": "mozilla",
             "repo": "addons-linter",
             "stars": 369,
@@ -665,11 +665,11 @@
             "id": 658389713,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-26T05:18:23Z",
-            "open_issues": 196,
+            "last_commit": "2026-11-27T12:39:13Z",
+            "open_issues": 197,
             "owner": "wxt-dev",
             "repo": "wxt",
-            "stars": 10782,
+            "stars": 10789,
             "topics": [
               "build-tool",
               "chrome-extensions",
@@ -696,7 +696,7 @@
             "open_issues": 4,
             "owner": "fregante",
             "repo": "browser-extension-template",
-            "stars": 844,
+            "stars": 846,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T18:22:22.389Z",
+    "last_updated": "2026-11-27T18:07:43.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for WebExtensions development.",
